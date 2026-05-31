@@ -1,0 +1,11 @@
+{
+  "name": "desenrola-lambda-5-exportar-csv",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "package": "zip -r function.zip index.js call-endpoint.js package.json"
+  }
+}

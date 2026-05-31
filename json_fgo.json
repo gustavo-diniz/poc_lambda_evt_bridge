@@ -1,0 +1,919 @@
+ {
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Fundo de Garantia de Operações de Crédito",
+    "version": "2.0.0",
+    "description": "API para utilizar os serviços do Fundo de Garantia de Operações de Crédito.\n\nPara os demais ambientes, substituir o endeço do HOST (Base URL) por:\nHomologação = api.hm.bb.com.br\nProdução = api.bb.com.br",
+    "contact": {
+      "name": "Banco do Brasil S.A. - BB for Developers",
+      "url": "https://developers.bb.com.br"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://fgo.mtls.api.hm.bb.com.br/v2"
+    },
+    {
+      "url": "https://fgo.mtls.api.bb.com.br/v2"
+    }
+  ],
+  "paths": {
+    "/pre-validacoes": {
+      "post": {
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoPOSTPreValidacoes"
+              }
+            }
+          },
+          "required": true
+        },
+        "tags": [
+          "Sem Reserva"
+        ],
+        "parameters": [
+          {
+            "name": "gw-dev-app-key",
+            "description": "É a chave de acesso do aplicativo do desenvolvedor obtida no Portal do Desenvolvedor. \n\nEssa chave será usada para identificação do aplicativo.",
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "required": true
+          },
+          {
+            "name": "Authorization",
+            "description": "É o valor do token de acesso fornecido pelo OAuth.\n\nExemplo: Bearer <acess_token>",
+            "schema": {
+              "type": "string"
+            },
+            "in": "header",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RespostaPOSTPreValidacoes"
+                }
+              }
+            },
+            "description": "SUCESSO. A requisição foi atendida pelo servidor."
+          },
+          "400": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro400"
+                }
+              }
+            },
+            "description": "REQUISIÇÃO INVÁLIDA. O servidor não pôde processar a requisição devido a uma sintaxe de requisição malformada, estrutura da mensagem da requisição inválida, ou valores inválidos."
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErroOAuthNaoAutorizado"
+                }
+              }
+            },
+            "description": "NÃO AUTORIZADO. A requisição requer autenticação do usuário."
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro500"
+                }
+              }
+            },
+            "description": "ERRO INTERNO. O servidor encontrou uma condição inesperada que o impediu de atender a requisição."
+          }
+        },
+        "security": [
+          {
+            "OAuth2-ClientCredentials": [
+              "fgo.requisicao"
+            ]
+          }
+        ],
+        "operationId": "pre-validar-formalizacao-sem-reserva",
+        "summary": "Pré-Validar FORMALIZAÇÃO de Crédito SEM Reserva junto ao Fundo Garantidor de Operações",
+        "description": "Pré-valida os dados de uma operação de crédito que se pretende FORMALIZAR com garantia de fundo garantidor.\n\nNÃO GRAVA RESERVA junto ao fundo garantidor.",
+        "x-codegen-request-body-name": "body"
+      }
+    },
+    "/pre-validacoes/reservas": {
+      "post": {
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoPOSTPreValidacoesReservas"
+              }
+            }
+          },
+          "required": true
+        },
+        "tags": [
+          "Com Reserva"
+        ],
+        "parameters": [
+          {
+            "name": "gw-dev-app-key",
+            "description": "É a chave de acesso do aplicativo do desenvolvedor obtida no Portal do Desenvolvedor. \n\nEssa chave será usada para identificação do aplicativo.",
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "required": true
+          },
+          {
+            "name": "Authorization",
+            "description": "É o valor do token de acesso fornecido pelo OAuth.\n\nExemplo: Bearer <acess_token>",
+            "schema": {
+              "type": "string"
+            },
+            "in": "header",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RespostaPOSTPreValidacoesReservas"
+                }
+              }
+            },
+            "description": "SUCESSO. A requisição foi atendida pelo servidor."
+          },
+          "400": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro400"
+                }
+              }
+            },
+            "description": "REQUISIÇÃO INVÁLIDA. O servidor não pôde processar a requisição devido a uma sintaxe de requisição malformada, estrutura da mensagem da requisição inválida, ou valores inválidos."
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErroOAuthNaoAutorizado"
+                }
+              }
+            },
+            "description": "NÃO AUTORIZADO. A requisição requer autenticação do usuário."
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro500"
+                }
+              }
+            },
+            "description": "ERRO INTERNO. O servidor encontrou uma condição inesperada que o impediu de atender a requisição."
+          }
+        },
+        "security": [
+          {
+            "OAuth2-ClientCredentials": [
+              "fgo.requisicao"
+            ]
+          }
+        ],
+        "operationId": "pre-validar-formalizacao-com-reserva",
+        "summary": "Pré-Validar FORMALIZAÇÃO de Crédito COM Reserva junto ao Fundo Garantidor de Operações",
+        "description": "Pré-valida os dados de uma operação de crédito que se pretende FORMALIZAR com garantia de fundo garantidor.\n\nSe a pré-validação for aceita, RETORNA O NÚMERO DA RESERVA gravada junta ao fundo garantidor.",
+        "x-codegen-request-body-name": "body"
+      }
+    },
+    "/reservas/cancelamentos": {
+      "put": {
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoPOSTReservasCancelamentos"
+              }
+            }
+          },
+          "required": true
+        },
+        "tags": [
+          "Cancelamento de Reserva"
+        ],
+        "parameters": [
+          {
+            "name": "gw-dev-app-key",
+            "description": "É a chave de acesso do aplicativo do desenvolvedor obtida no Portal do Desenvolvedor. \n\nEssa chave será usada para identificação do aplicativo.",
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "required": true
+          },
+          {
+            "name": "Authorization",
+            "description": "É o valor do token de acesso fornecido pelo OAuth.\n\nExemplo: Bearer <acess_token>",
+            "schema": {
+              "type": "string"
+            },
+            "in": "header",
+            "required": true
+          }
+        ],
+        "responses": {
+          "204": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            },
+            "description": "SUCESSO e SEM CONTEÚDO. A requisição foi atendida pelo servidor, porém, não há informações adicionais a retornar."
+          },
+          "400": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro400"
+                }
+              }
+            },
+            "description": "REQUISIÇÃO INVÁLIDA. O servidor não pôde processar a requisição devido a uma sintaxe de requisição malformada, estrutura da mensagem da requisição inválida, ou valores inválidos."
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErroOAuthNaoAutorizado"
+                }
+              }
+            },
+            "description": "NÃO AUTORIZADO. A requisição requer autenticação do usuário."
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Erro500"
+                }
+              }
+            },
+            "description": "ERRO INTERNO. O servidor encontrou uma condição inesperada que o impediu de atender a requisição."
+          }
+        },
+        "security": [
+          {
+            "OAuth2-ClientCredentials": [
+              "fgo.requisicao"
+            ]
+          }
+        ],
+        "operationId": "cancelar-reserva-pre-validacao",
+        "summary": "CANCELAR Reserva de Pré-validação junto ao Fundo Garantidor de Operações",
+        "description": "CANCELA uma reserva de pré-validação efetuada junto ao fundo garantidor de operações.\nPode ser cancelada reserva de formalização ou de liberação.\nRetorno indica se o cancelamento ocorreu com sucesso ou o motivo da sua rejeição, quando for o caso.",
+        "x-codegen-request-body-name": "body"
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Erro400": {
+        "title": "Erro400",
+        "description": "Representação de um objeto de erro negocial (HTTP 400) da API FGO V2.",
+        "type": "object",
+        "properties": {
+          "detail": {
+            "description": "Descrição completa do problema",
+            "type": "string",
+            "example": "O Fundo Garantidor informado não esta cadastrado."
+          },
+          "instance": {
+            "description": "Identificador de correlação do problema para fins de suporte",
+            "type": "string",
+            "example": "correlationId: 2bad9890-ffec-42d8-9021-e4063476844a"
+          },
+          "userHelp": {
+            "description": "Informações adicionais, a fim de auxiliar o usuário na resolucao na resolução do problema",
+            "type": "string",
+            "example": "Verifique o campo codigoFundoGarantidor informando um código válido"
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "detail": "O Fundo Garantidor informado não esta cadastrado.",
+            "instance": "correlationId: 2bad9890-ffec-42d8-9021-e4063476844a",
+            "userHelp": "Verifique o campo codigoFundoGarantidor informando um código válido"
+          }
+        }
+      },
+      "Erro500": {
+        "title": "Erro500",
+        "description": "Representação de um objeto de erro 500 da API FGO apenas",
+        "type": "object",
+        "properties": {
+          "detail": {
+            "description": "Descrição completa do problema",
+            "type": "string",
+            "example": "Erro Interno do Servidor"
+          },
+          "instance": {
+            "description": "Identificador de correlação do problema para fins de suporte",
+            "type": "string",
+            "example": "correlationId: 2bad9890-ffec-42d8-9021-e4063476844a"
+          },
+          "userHelp": {
+            "description": "Informações adicionais, a fim de auxiliar o usuário na resolucao na resolução do problema",
+            "type": "string",
+            "example": "Tente novamente mais tarde."
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "detail": "Erro Interno do Servidor",
+            "instance": "correlationId: 2bad9890-ffec-42d8-9021-e4063476844a",
+            "userHelp": "Tente novamente mais tarde."
+          }
+        }
+      },
+      "ErroOAuthNaoAutorizado": {
+        "title": "ErroOAuthNaoAutorizado",
+        "description": "Representação de um objeto de erro do OAuth 2.0.",
+        "type": "object",
+        "properties": {
+          "statusCode": {
+            "format": "int32",
+            "description": "Código do estado do erro.",
+            "type": "integer",
+            "example": 401
+          },
+          "error": {
+            "description": "Tipo do erro.",
+            "type": "string",
+            "example": "Unauthorized"
+          },
+          "message": {
+            "description": "Mensagem do erro.",
+            "type": "string",
+            "example": "The request has not been applied because it lacks valid authentication credentials for the target resource."
+          },
+          "attributes": {
+            "type": "object",
+            "properties": {
+              "error": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "x-examples": {
+          "example-1": {
+            "statusCode": 401,
+            "error": "Unauthorized",
+            "message": "Bad Credentials",
+            "attributes": {
+              "error": "Bad Credentials"
+            }
+          }
+        }
+      },
+      "RequisicaoPOSTPreValidacoes": {
+        "title": "RequisicaoPOSTPreValidacoes",
+        "description": "Objeto de Requisição ao Pré-Validar Crédito SEM Reserva",
+        "required": [
+          "codigoAgenteFinanceiro",
+          "codigoidentificadorExternoOperacao",
+          "codigoFundoGarantidor",
+          "codigoIbgeMunicipioAgencia",
+          "codigoIdentificadorSrf",
+          "codigoTipoCondicaoEspecial",
+          "codigoTipoCronogramaAmortizacao",
+          "codigoTipoFinalidadeCredito",
+          "codigoTipoFonteRecurso",
+          "codigoTipoFormalizacao",
+          "codigoTipoModalidadeCredito",
+          "codigoTipoPessoa",
+          "codigoTipoProgramaCredito",
+          "codigoTipoPublicoAlvo",
+          "dataDespachoExternoOperacao",
+          "dataFormalizacaoOperacao",
+          "dataVencimentoOperacao",
+          "numeroAgenciaContratanteOperacao",
+          "percentualGarantiaOperacaoCredito",
+          "valorFaturamentoBrutoAnual",
+          "valorOperacaoCredito",
+          "valorSubsidioCredito",
+          "numeroCpfQualificadorOperacao"
+        ],
+        "type": "object",
+        "properties": {
+          "codigoAgenteFinanceiro": {
+            "format": "int32",
+            "description": "Código do Agente Financeiro, atribuído pelo Administrador.\n\nIdentifica o agente financeiro contratante da operação de crédito (não é o código do banco no BACEN).\nAgente ou Agente Financeiro: instituição financeira habilitada pelo Administrador para cumprir o papel de Agente Financeiro do FGO, contratando operações de crédito com garantia do Fundo.\n\nExemplo: \"1\"",
+            "type": "integer",
+            "example": 2
+          },
+          "codigoidentificadorExternoOperacao": {
+            "description": "Código que identifica a operação de crédito no âmbito do Agente.\n\nExemplo: \"ABC1234\"",
+            "type": "string",
+            "example": "ABC1234"
+          },
+          "codigoFundoGarantidor": {
+            "format": "int32",
+            "description": "Identifica o fundo garantidor da operação de crédito. \n\n1 FGO Original\n2 FGO PRONAMPE\n3 FGO Desenrola\n4 - FGO Procred\n5 - FGO Acredita",
+            "type": "integer",
+            "example": 2
+          },
+          "numeroAgenciaContratanteOperacao": {
+            "format": "int32",
+            "description": "Número que identifica a agência  contratante da operação. Para o Desenrola, informar 0001 se o mutuário não possuir agência.",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoIbgeMunicipio": {
+            "format": "int32",
+            "description": "Código IBGE do município onde se localiza o empreendimento financiado (sem DV). Para o Desenrola, informar o Código IBGE do município do endereço principal do contratante ",
+            "type": "integer",
+            "example": 354340
+          },
+          "codigoTipoPessoa": {
+            "format": "int32",
+            "description": "Código do tipo de pessoa do mutuário, identifica pessoa física ou jurídica.\n\n1 Pessoa física \n2 Pessoa jurídica",
+            "type": "integer",
+            "example": 2
+          },
+          "codigoIdentificadorSrf": {
+            "description": "CPF ou CNPJ do mutuário, cadastro de pessoa física ou jurídica no Sistema da Receita Federal.",
+            "type": "string",
+            "example": 191
+          },
+          "codigoTipoPublicoAlvo": {
+            "format": "int32",
+            "description": "Código do público alvo onde o mutuário se enquadra.\n\n1 MICRO EMPRESA \n2 MICRO EMPREENDEDOR INDIVIDUAL \n3 AUTÔNOMO TRANSP. ROD. CARGAS \n4 PEQUENA EMPRESA \n5 MEDIA EMPRESA\n6 PROFISSIONAL LIBERAL\n7 PESSOA FÍSICA ",
+            "type": "integer",
+            "example": 1
+          },
+          "valorFaturamentoBrutoAnual": {
+            "format": "float",
+            "description": "Valor do faturamento bruto anual do mutuário pessoa jurídica, na data da formalização. Para pessoa física informe zeros.",
+            "type": "number",
+            "example": 300000
+          },
+          "valorOperacaoCredito": {
+            "format": "float",
+            "description": "Valor da operação: - Informe o valor financiado na operação de crédito",
+            "type": "number",
+            "example": 50000
+          },
+          "percentualGarantiaOperacaoCredito": {
+            "format": "float",
+            "description": "Percentual da garantia FGO com duas casas decimais.",
+            "type": "number",
+            "example": "80.05 = 80,05"
+          },
+          "codigoTipoModalidadeCredito": {
+            "format": "int32",
+            "description": "Identifica qual a modalidade do crédito concedido ao mutuário. \n\n1 Crédito fixo",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoFinalidadeCredito": {
+            "format": "int32",
+            "description": "Identifica qual a finalidade do crédito concedido ao mutuário.\n\n1 Investimento \n3 Desenrola Brasil",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoFonteRecurso": {
+            "format": "int32",
+            "description": "Código da fonte de recursos do financiamento.\nObs.: Caso o Agente Financeiro opere com fontes de recursos não contempladas na tabela, deverá solicitar sua inclusão previamente ao Administrador do Fundo Garantidor. \n\n001 Fundo de Amparo ao Trabalhador \n002 Programa de Formação do Patrimônio Setor Público \n003 Conta Própria BB + PASEP \n004 Conta Própria BB \n005 BNDES \n006 Conta Própria AGE-RIO \n007 PIS CAIXA \n008 Conta própria CAIXA \n009 FINEP \n010 Desenvolve SP (DSP)\n011 Recurso próprio\n012 FUNGETUR",
+            "type": "integer",
+            "example": 11
+          },
+          "codigoTipoProgramaCredito": {
+            "format": "int32",
+            "description": "Identifica o programa de crédito em que o financiamento está enquadrado.\n\n1 Proger Urbano Empresarial \n2 Proger Turismo Investimento \n3 BB Capital de Giro Mix PASEP \n4 BB Giro Rápido PASEP/Conta Própria - Crédito Fixo \n5 BB Giro APL \n6 BB Giro Décimo Terceiro Salário \n7 BB Giro Saúde Mix PASEP \n8 BB Giro Empresa Flex \n9 BB Giro Empresa Flex - Liberações Estruturadas \n10 BB Giro Rápido \n11 BB Crédito Empresa \n12 BNDES Automático PER \n13 Reescalonamento de Dívidas MPE \n14 BB Giro Cartões \n15 ASSUNÇÃO DE DÍVIDA DE MPE TESTE \n16 BB Crédito Parcelado PJ \n17 FAT Turismo Capital de Giro \n18 AGERIO APL LICENCIAMENTO AMBIENTAL SELIC \n19 DSP INVESTIMENTO \n20 DSP MAQUINAS E EQUIPAMENTOS \n21 DSP INOVACAO \n22 FINEP INOVACAO \n23 AGE-RIO APL LICENCIAMENTO AMBIENTAL SELIC \n24 AGE-RIO ECOEFICIENCIA \n25 AGE-RIO GIRO EMERGENCIAL \n26 AGE-RIO GIRO FACIL \n27 AGE-RIO GIRO SELIC \n28 AGE-RIO INVESTIMENTO FIXO SELIC \n29 AGE-RIO LOCADORAS DE VEICULOS \n30 AGE-RIO TURISMO - HOTEIS \n31 AGE-RIO FRANQUIAS \n32 FAT TURISMO INVESTIMENTO \n33 RENEGOCIACAO MASSIFICADA PF/PJ \n34 RENEGOCIACAO ESPECIAL \n35 CARTAO BNDES \n36 CAIXA CREDITO PARCELADO PJ \n37 CAIXA INVESTIMENTO PJ \n38 PRONAMPE \n41 DESENROLA \n42 SOLIDARIO-RS  \n43 Procred  \n44 Acredita ",
+            "type": "integer",
+            "example": 39
+          },
+          "dataFormalizacaoOperacao": {
+            "format": "int32",
+            "description": "Identifica a data da formalização da operação, no formato AAAAMMDD.",
+            "type": "integer",
+            "example": 20200623
+          },
+          "dataVencimentoOperacao": {
+            "format": "int32",
+            "description": "Identifica a data de vencimento da operação, no formato AAAAMMDD.",
+            "type": "integer",
+            "example": 20200623
+          },
+          "codigoTipoCronogramaAmortizacao": {
+            "format": "int32",
+            "description": "Identifica o tipo de cronograma de amortizações.\n\n1 Cronogramas unificados",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoCondicaoEspecial": {
+            "format": "int32",
+            "description": "Identifica o tipo de condição especial da operação.\n\n01 Sem condição especial",
+            "type": "integer",
+            "example": 1
+          },
+          "dataDespachoExternoOperacao": {
+            "format": "int32",
+            "description": "Informar valor numérico zero.",
+            "type": "integer",
+            "example": 0
+          },
+          "codigoTipoFormalizacao": {
+            "format": "int32",
+            "description": "Código para indicar o tipo de formalização.\n\n1 Ordinária",
+            "type": "integer",
+            "example": 1
+          },
+          "valorSubsidioCredito": {
+            "format": "float",
+            "description": "Valor do subsidio da operação.",
+            "type": "number",
+            "example": "50000 = 50.000,00"
+          },
+          "numeroCpfQualificadorOperacao": {
+            "format": "int64",
+            "description": "CPF qualificador das características da operação de crédito quanto ao sexo do mutuário, incrição no CADÚNICO e outros.",
+            "type": "integer",
+            "example": 12345678911
+          },
+          "valorCondicaoEspecial": {
+            "format": "float",
+            "description": "Valor da Condição Especial de acordo com o Código Tipo Condição Especial da Operação.",
+            "type": "number",
+            "example": 1000.50
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "agenteFinanceiro": 12,
+            "codigoIdentificadorExternoOperacao": "123",
+            "codigoFundoGarantidor": 2,
+            "numeroAgenciaContratanteOperacao": 1,
+            "codigoIbgeMunicipio": 354340,
+            "codigoTipoPessoa": 2,
+            "codigoIdentificadorSrf": "191",
+            "codigoTipoPublicoAlvo": 1,
+            "valorFaturamentoBrutoAnual": 300000,
+            "valorOperacaoCredito": 50000,
+            "percentualGarantiaOperacaoCredito": 100,
+            "codigoTipoModalidadeCredito": 1,
+            "codigoTipoFinalidadeCredito": 1,
+            "codigoTipoFonteRecurso": 11,
+            "codigoTipoProgramaCredito": 39,
+            "dataFormalizacaoOperacao": 20200623,
+            "dataVencimentoOperacao": 20230623,
+            "codigoTipoCronogramaAmortizacao": 1,
+            "codigoTipoCondicaoEspecial": 1,
+            "dataDespachoExternoOperacao": 0,
+            "codigoTipoFormalizacao": 1,
+            "valorSubsidioCredito":  1000,
+            "numeroCpfPessoaQualificada": 12345678911,
+            "valorCondicaoEspecial": 1000
+          }
+        }
+      },
+      "RespostaPOSTPreValidacoes": {
+        "title": "RespostaPOSTPreValidacoes",
+        "description": "Objeto de Resposta ao Pré-Validar Crédito SEM Reserva",
+        "type": "object",
+        "properties": {
+          "valorTotalFinanciado": {
+            "format": "float",
+            "description": "Retorna o valor total já financiado/garantido/comprometido do mutuário com garantia do Fundo Garantidor, não computando a operação que está sendo pré-validada.",
+            "type": "number",
+            "example": 987451.75
+          },
+          "valorMargemDisponivelContratacao": {
+            "format": "float",
+            "description": "Retorna o valor total já financiado/garantido/comprometido do mutuário com garantia do Fundo Garantidor, não computando a operação que está sendo pré-validada.",
+            "type": "number",
+            "example": 987451.75
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "valorTotalFinanciado": 987451.77,
+            "valorMargemDisponivelContratacao": 12345.67
+          }
+        }
+      },
+      "RequisicaoPOSTPreValidacoesReservas": {
+        "title": "RequisicaoPOSTPreValidacoesReservas",
+        "description": "Objeto de Requisição ao Pré-Validar FORMALIZAÇÃO de Crédito COM Reserva",
+        "required": [
+          "codigoAgenteFinanceiro",
+          "codigoidentificadorExternoOperacao",
+          "codigoFundoGarantidor",
+          "codigoIbgeMunicipio",
+          "codigoIdentificadorSrf",
+          "codigoTipoCondicaoEspecial",
+          "codigoTipoCronogramaAmortizacao",
+          "codigoTipoFinalidadeCredito",
+          "codigoTipoFonteRecurso",
+          "codigoTipoFormalizacao",
+          "codigoTipoModalidadeCredito",
+          "codigoTipoPessoa",
+          "codigoTipoProgramaCredito",
+          "codigoTipoPublicoAlvo",
+          "dataDespachoExternoOperacao",
+          "dataFormalizacaoOperacao",
+          "dataVencimentoOperacao",
+          "numeroAgenciaContratanteOperacao",
+          "percentualGarantiaOperacaoCredito",
+          "valorFaturamentoBrutoAnual",
+          "valorOperacaoCredito",
+          "valorSubsidioCredito",
+          "numeroCpfQualificadorOperacao"
+        ],
+        "type": "object",
+        "properties": {
+          "codigoAgenteFinanceiro": {
+            "format": "int32",
+            "description": "Código do Agente Financeiro, atribuído pelo Administrador.\\n\\nIdentifica o agente financeiro contratante da operação de crédito (não é o código do banco no BACEN).\\nAgente ou Agente Financeiro: instituição financeira habilitada pelo Administrador para cumprir o papel de Agente Financeiro do FGO, contratando operações de crédito com garantia do Fundo.",
+            "type": "integer",
+            "example": 2
+          },
+          "codigoidentificadorExternoOperacao": {
+            "description": "Código que identifica a operação de crédito no âmbito do Agente.",
+            "type": "string",
+            "example": "ABC1234"
+          },
+          "codigoFundoGarantidor": {
+            "format": "int32",
+            "description": "Identifica o fundo garantidor da operação de crédito. \n\n1 FGO Original\n2 FGO PRONAMPE\n3 FGO Desenrola\n4 - FGO Procred\n5 - FGO Acredita",
+            "type": "integer",
+            "example": 2
+          },
+          "numeroAgenciaContratanteOperacao": {
+            "format": "int32",
+            "description": "Número que identifica a agência  contratante da operação. Para o Desenrola, informar 0001 se o mutuário não possuir agência.",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoIbgeMunicipio": {
+            "format": "int32",
+            "description": "Código IBGE do município onde se localiza o empreendimento financiado (sem DV). Para o Desenrola, informar o Código IBGE do município do endereço principal do contratante ",
+            "type": "integer",
+            "example": 354340
+          },
+          "codigoTipoPessoa": {
+            "format": "int32",
+            "description": "Código do tipo de pessoa do mutuário, identifica pessoa física ou jurídica.\n\n1 Pessoa física \n2 Pessoa jurídica",
+            "type": "integer",
+            "example": 2
+          },
+          "codigoIdentificadorSrf": {
+            "description": "CPF ou CNPJ do mutuário, cadastro de pessoa física ou jurídica no Sistema da Receita Federal.",
+            "type": "string",
+            "example": "123ABC"
+          },
+          "codigoTipoPublicoAlvo": {
+            "format": "int32",
+            "description": "Código do público alvo onde o mutuário se enquadra.\n\n1 MICRO EMPRESA \n2 MICRO EMPREENDEDOR INDIVIDUAL \n3 AUTÔNOMO TRANSP. ROD. CARGAS \n4 PEQUENA EMPRESA \n5 MEDIA EMPRESA\n6 PROFISSIONAL LIBERAL\n7 PESSOA FÍSICA ",
+            "type": "integer",
+            "example": 1
+          },
+          "valorFaturamentoBrutoAnual": {
+            "format": "float",
+            "description": "Valor do faturamento bruto anual do mutuário pessoa jurídica, na data da formalização. Para pessoa física informe zeros ",
+            "type": "number",
+            "example": 300000
+          },
+          "valorOperacaoCredito": {
+            "format": "float",
+            "description": "Valor da operação: - Informe o valor financiado na operação de crédito",
+            "type": "number",
+            "example": 50000
+          },
+          "percentualGarantiaOperacaoCredito": {
+            "format": "float",
+            "description": "Percentual da garantia FGO com duas casas decimais. ",
+            "type": "number",
+            "example": "80.05 = 80,05"
+          },
+          "codigoTipoModalidadeCredito": {
+            "format": "int32",
+            "description": "Identifica qual a modalidade do crédito concedido ao mutuário. \n\n1 Crédito fixo",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoFinalidadeCredito": {
+            "format": "int32",
+            "description": "Identifica qual a finalidade do crédito concedido ao mutuário.\n\n1 Investimento \n3 Desenrola Brasil",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoFonteRecurso": {
+            "format": "int32",
+            "description": "Código da fonte de recursos do financiamento.\nObs.: Caso o Agente Financeiro opere com fontes de recursos não contempladas na tabela, deverá solicitar sua inclusão previamente ao Administrador do Fundo Garantidor. \n\n001 Fundo de Amparo ao Trabalhador \n002 Programa de Formação do Patrimônio Setor Público \n003 Conta Própria BB + PASEP \n004 Conta Própria BB \n005 BNDES \n006 Conta Própria AGE-RIO \n007 PIS CAIXA \n008 Conta própria CAIXA \n009 FINEP \n010 Desenvolve SP (DSP)\n011 Recurso próprio\n012 FUNGETUR",
+            "type": "integer",
+            "example": 11
+          },
+          "codigoTipoProgramaCredito": {
+            "format": "int32",
+            "description": "Identifica o programa de crédito em que o financiamento está equandrado.\n\n1 Proger Urbano Empresarial \n2 Proger Turismo Investimento \n3 BB Capital de Giro Mix PASEP \n4 BB Giro Rápido PASEP/Conta Própria - Crédito Fixo \n5 BB Giro APL \n6 BB Giro Décimo Terceiro Salário \n7 BB Giro Saúde Mix PASEP \n8 BB Giro Empresa Flex \n9 BB Giro Empresa Flex - Liberações Estruturadas \n10 BB Giro Rápido \n11 BB Crédito Empresa \n12 BNDES Automático PER \n13 Reescalonamento de Dívidas MPE \n14 BB Giro Cartões \n15 ASSUNÇÃO DE DÍVIDA DE MPE TESTE \n16 BB Crédito Parcelado PJ \n17 FAT Turismo Capital de Giro \n18 AGERIO APL LICENCIAMENTO AMBIENTAL SELIC \n19 DSP INVESTIMENTO \n20 DSP MAQUINAS E EQUIPAMENTOS \n21 DSP INOVACAO \n22 FINEP INOVACAO \n23 AGE-RIO APL LICENCIAMENTO AMBIENTAL SELIC \n24 AGE-RIO ECOEFICIENCIA \n25 AGE-RIO GIRO EMERGENCIAL \n26 AGE-RIO GIRO FACIL \n27 AGE-RIO GIRO SELIC \n28 AGE-RIO INVESTIMENTO FIXO SELIC \n29 AGE-RIO LOCADORAS DE VEICULOS \n30 AGE-RIO TURISMO - HOTEIS \n31 AGE-RIO FRANQUIAS \n32 FAT TURISMO INVESTIMENTO \n33 RENEGOCIACAO MASSIFICADA PF/PJ \n34 RENEGOCIACAO ESPECIAL \n35 CARTAO BNDES \n36 CAIXA CREDITO PARCELADO PJ \n37 CAIXA INVESTIMENTO PJ \n38 PRONAMPE \n41 DESENROLA \n42 SOLIDARIO-RS  \n43 Procred  \n44 Acredita ",
+            "type": "integer",
+            "example": 39
+          },
+          "dataFormalizacaoOperacao": {
+            "format": "int32",
+            "description": "Identifica a data da formalização da operação, no formato AAAAMMDD.",
+            "type": "integer",
+            "example": 20200623
+          },
+          "dataVencimentoOperacao": {
+            "format": "int32",
+            "description": "Identifica a data de vencimento da operação, no formato AAAAMMDD.",
+            "type": "integer",
+            "example": 20200623
+          },
+          "codigoTipoCronogramaAmortizacao": {
+            "format": "int32",
+            "description": "Identifica o tipo de cronograma de amortizações.\n\n1 Cronogramas unificados",
+            "type": "integer",
+            "example": 1
+          },
+          "codigoTipoCondicaoEspecial": {
+            "format": "int32",
+            "description": "Identifica o tipo de condição especial da operação.\n\n01 Sem condição especial",
+            "type": "integer",
+            "example": 1
+          },
+          "dataDespachoExternoOperacao": {
+            "format": "int32",
+            "description": "Informar valor numérico zero.",
+            "type": "integer",
+            "example": 0
+          },
+          "codigoTipoFormalizacao": {
+            "format": "int32",
+            "description": "Código para indicar o tipo de formalização.\n\n1 Ordinária",
+            "type": "integer",
+            "example": 1
+          },
+          "valorSubsidioCredito": {
+            "format": "float",
+            "description": "Valor do subsidio da operação.",
+            "type": "number",
+            "example": 50000
+          },
+          "numeroCpfQualificadorOperacao": {
+            "format": "int64",
+            "description": "CPF qualificador das características da operação de crédito quanto ao sexo do mutuário, incrição no CADÚNICO e outros.",
+            "type": "integer",
+            "example": 12345678911
+          },
+          "valorCondicaoEspecial": {
+            "format": "float",
+            "description": "Valor da Condição Especial de acordo com o Código Tipo Condição Especial da Operação.",
+            "type": "number",
+            "example": 1000.50
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "codigoFundoGarantidor": 2,
+            "numeroAgenciaContratanteOperacao": 1,
+            "codigoIbgeMunicipioAgencia": 354340,
+            "codigoTipoPessoa": 2,
+            "codigoIdentificadorSrf": 191,
+            "codigoTipoPublicoAlvo": 1,
+            "valorFaturamentoBrutoAnual": 300000,
+            "valorOperacaoCredito": 50000,
+            "percentualGarantiaOperacaoCredito": 100,
+            "codigoTipoModalidadeCredito": 1,
+            "codigoTipoFinalidadeCredito": 1,
+            "codigoTipoFonteRecurso": 11,
+            "codigoTipoProgramaCredito": 39,
+            "dataFormalizacaoOperacao": 20200623,
+            "dataVencimentoOperacao": 20200623,
+            "codigoTipoCronogramaAmortizacao": 1,
+            "codigoTipoCondicaoEspecial": 1,
+            "dataDespachoExternoOperacao": 0,
+            "codigoTipoFormalizacao": 1,
+            "valorSubsidioCredito":  1000,
+            "numeroCpfPessoaQualificada": 12345678911,
+            "valorCondicaoEspecial": 1000
+          }
+        }
+      },
+      "RespostaPOSTPreValidacoesReservas": {
+        "title": "RespostaPOSTPreValidacoesReservas",
+        "description": "Objeto de Resposta ao Pré-Validar FORMALIZAÇÃO de Crédito COM Reserva",
+        "type": "object",
+        "properties": {
+          "numeroReservaPreValidacao": {
+            "format": "int64",
+            "description": "Retorna o número da reserva da pré-validação registrada no Fundo Garantidor.",
+            "type": "integer",
+            "example": 123456789
+          },
+          "valorTotalFinanciado": {
+            "format": "float",
+            "description": "Retorna o valor total já financiado/garantido/comprometido do mutuário com garantia do Fundo Garantidor, não computando a operação que está sendo pré-validada.",
+            "type": "number",
+            "example": 987451.75
+          },
+          "valorMargemDisponivelContratacao": {
+            "format": "float",
+            "description": "Retorna o valor total já financiado/garantido/comprometido do mutuário com garantia do Fundo Garantidor, não computando a operação que está sendo pré-validada.",
+            "type": "number",
+            "example": 987451.75
+          }
+        },
+        "x-examples": {
+          "exemplo": {
+            "numeroReservaPreValidacao": 123456789,
+            "valorTotalFinanciado": 987451.77
+          }
+        }
+      },
+      "RequisicaoPOSTReservasCancelamentos": {
+        "title": "RequisicaoPOSTReservasCancelamentos",
+        "description": "Objeto de Requisição ao CANCELAR Reserva de Pré-validação Junto ao FGO",
+        "required": [
+          "codigoFundoGarantidor"
+        ],
+        "type": "object",
+        "properties": {
+          "codigoAgenteFinanceiro": {
+            "format": "int32",
+            "description": "Código do Agente Financeiro, atribuído pelo Administrador.\nIdentifica o agente financeiro contratante da operação de crédito (não é o código do banco no BACEN).\nAgente ou Agente Financeiro: instituição financeira habilitada pelo Administrador para cumprir o papel de Agente Financeiro do FGO, contratando operações de crédito com garantia do Fundo.",
+            "type": "integer",
+            "example": 123
+          },
+          "codigoFundoGarantidor": {
+            "format": "int32",
+            "description": "Identifica o código do fundo garantidor da operação de crédito. \n\n1 FGO Original\n2 FGO PRONAMPE\n3 FGO Desenrola\n4 - FGO Procred\n5 - FGO Acredita",
+            "type": "integer",
+            "example": 1
+          },
+          "numeroReservaPreValidacao": {
+            "format": "int32",
+            "description": "Identifica o número da reserva da pré-validação registrada no GFG, a ser cancelada.",
+            "type": "integer",
+            "example": 123
+          }
+
+        },
+        "x-examples": {
+          "exemplo": {
+            "codigoFundoGarantidor": 1
+          }
+        }
+      }
+    },
+    "securitySchemes": {
+      "OAuth2-ClientCredentials": {
+        "flows": {
+          "clientCredentials": {
+            "tokenUrl": "https://oauth.hm.bb.com.br/oauth/token",
+            "scopes": {
+              "fgo.requisicao": "Conceder permissão para solicitar ou cancelar a formalização de crédito do Fundo Garantidor de Operações"
+            }
+          }
+        },
+        "type": "oauth2",
+        "description": "Com a proteção de credenciais de usuários, o OAuth 2.0 permite a recuperação segura de recursos seguros."
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Com Reserva",
+      "description": "Fluxo de Pré-validação com Reserva"
+    },
+    {
+      "name": "Cancelamento de Reserva",
+      "description": "Fluxo de cancelamento de Pré-validação com Reserva"
+    },
+    {
+      "name": "Sem Reserva",
+      "description": "Fluxo de Pré-validação sem Reserva"
+    }
+  ],
+  "externalDocs": {
+    "description": "Saiba mais sobre os fluxos de autorização do Oauth no Banco do Brasil",
+    "url": "https://developers.bb.com.br/docs/oauth/"
+  }
+}
