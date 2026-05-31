@@ -1,0 +1,17 @@
+PORT=3000
+
+# ─── Caixa FGTS ───────────────────────────────────────────────────────────────
+HOST_API_CAIXA=http://localhost:9001/v1
+API_CAIXA_CONSULTA_SALDO=v1/trabalhadores/protocolos/consultas-protocolo/
+API_CAIXA_SOLCITAR_PROTOCOLO=v1/trabalhadores/solicitacoes-inclusao-divida/
+
+# ─── AWS ──────────────────────────────────────────────────────────────────────
+AWS_REGION=sa-east-1
+SQS_RESERVA_URL=https://sqs.sa-east-1.amazonaws.com/xxxxxxxxxxx/sqs-res-reserva
+
+# ─── MySQL ────────────────────────────────────────────────────────────────────
+DB_HOST=192.168.3.251
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=root
+DB_NAME=desenrola
