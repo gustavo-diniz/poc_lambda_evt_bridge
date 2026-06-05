@@ -1,3 +1,0 @@
-tipoProduto;idAcordo;ibgeCliente;cpf;dataAcordo;dataVencimentoOperacao;valorOperacaoCredito;valorSubsidioCredito;valorCondicaoEspecial;cpfQualificador;numeroReservaPreValidacao;valor;motivo;motivo_erro;arquivoOrigem
-CARTAO;10001;0530010;27782395887;26/05/2026;26/05/2028;1000,8;900,8;100;27782395887;123456;;;;
-EMPRESTIMO;10002;0530010;12343930422;27/05/2026;26/05/2030;567,34;367,34;200;12343930422;678123;;;;
