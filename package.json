@@ -1,0 +1,26 @@
+{
+  "name": "desenrola",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@aws-sdk/client-lambda": "^3.1058.0",
+    "@aws-sdk/client-s3": "^3.1053.0",
+    "@aws-sdk/client-sqs": "^3.1053.0",
+    "@hono/node-server": "^1.19.14",
+    "dotenv": "^17.4.2",
+    "hono": "^4.12.23",
+    "mysql2": "^3.22.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3",
+    "vitest": "^4.1.7"
+  }
+}

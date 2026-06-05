@@ -1,0 +1,2028 @@
+ 
+ 
+#Pública 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BANCO DO BRASIL S.A. 
+Vice-Presidência Negócios Governo e Sustentabilidade Empresarial 
+Unidade Estratégia Governo 
+Gerência Executiva de Gestão do Passivo, Financiamento, Crédito e Compliance 
+Gerência de Soluções de Fundos Garantidores e Programas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FGO NOVO DESENROLA BRASIL 
+ 
+MANUAL DE PROCEDIMENTOS OPERACIONAIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Versão: 06.05.2026 
+
+ 
+ 
+#Pública 
+BANCO DO BRASIL S.A. 
+ 
+ 
+Presidenta:  Tarciana Paula Gomes Medeiros 
+ 
+Vice-Presidente:  José Ricardo Sasseron 
+ 
+Gerente Geral: Michele Azevedo Alencar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gerência Executiva de Gestão do Passivo, Financiamento, Crédito e Compliance 
+Gerência de Soluções de Fundos Garantidores e Programas 
+Gerente Executivo: Fernando Favoreto 
+Gerente de Soluções:  Diego Oliveira Mansão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Banco do Brasil S.A. 
+ 
+FGO Novo Desenrola Brasil - Manual de Procedimentos Operacionais  
+VERSÃO 06.05.2026 
+ 
+Edição:  Unidade Estratégia Governo 
+Endereço: SAUN, Quadra 05, Torre 1, Lote B, Ed. Banco do Brasil, 10º andar 
+CEP:  70.040-912 Brasília - Distrito Federal  
+Telefone:  (61) 3493-0300 
+Endereço eletrônico:  fgo@bb.com.br                             site: http://www.bb.com.br/fgo 
+ 
+
+ 
+ 
+#Pública 
+APRESENTAÇÃO 
+ 
+ 
+O Fundo de Garantia de Operações – FGO tem por finalidade garantir parte do risco dos empréstimos e 
+financiamentos concedidos pelas instituições financeiras criadas por lei própria, instituições autorizadas a 
+funcionar pelo Banco Central do Brasil e entidades de que trata o art. 3º da Lei nº 13.636, de 20 de março de 
+2018, para pessoas físicas enquadradas na Seção I, do Capítulo III, da Lei nº 14.690, de 03 de outubro de 2023, 
+pessoas físicas enquadradas no art. 5º da Lei nº 14.995, de 10 de outubro de 2024, pessoas físicas e jurídicas 
+produtoras rurais, de que trata o art. 28 da Lei nº 14.981, de 20 de setembro de 2024, pessoas físicas e jurídicas 
+enquadradas no art. 1º da Medi da Provisória 1.337, de 06 de março de 2026, pessoas físicas enquadradas no 
+art. 3º da Medida Provisória nº 1.355, de 04 de maio de 2026,  micro, pequenas e médias empresas, 
+microempreendedor individual, profissionais liberais, e autônomos transportad ores r odoviários de carga, na 
+aquisição de bens de capital inerentes a sua atividade, nos termos da legislação aplicável  
+O Programa de Garantia FGO Novo Desenrola Brasil  é um programa de garantia do FGO que visa prestar 
+garantia a operações contratadas no âmbito do Programa Extraordinário de Reequilíbrio Financeiro das Famílias 
+– Novo Desenrola Brasil, vinculado ao Minist ério da Fazenda, com o objetivo de promover a recomposi ção da 
+capacidade financeira das famílias, por meio de incentivos à renegociação e à regularização de dívidas em atraso 
+junto ao sistema financeiro. 
+O Banco do Brasil S.A., no papel de Administrador do FGO, elaborou o presente Manual de Procedimentos 
+Operacionais que tem o objetivo de regulamentar os procedimentos entre o Administrador e os Agentes 
+Financeiros na operacionalização de garantias FGO Novo Desenrola Brasil , nos termos do Estatuto e do 
+Regulamento do Programa, além de contribuir para formalizar e consolidar a atuação do Banco do Brasil S.A. no 
+papel de Administrador do Fundo de Garantia de Operações – FGO. 
+ 
+Banco do Brasil S.A. 
+Unidade Estratégia Governo 
+ 
+ 
+Fernando Favoreto 
+Gerente Executivo 
+ 
+
+ 
+4 
+#Pública 
+ 
+ÍNDICE 
+ 
+1 GLOSSÁRIO .................................................................................................................................................... 6 
+2 NORMATIVOS ................................................................................................................................................. 9 
+3 NATUREZA JURÍDICA DO FGO .................................................................................................................... 9 
+4 HABILITAÇÃO NEGOCIAL E TECNOLÓGICA DOS AGENTES FINANCEIROS  ........................................ 9 
+4.1 HABILITAÇÃO NEGOCIAL DOS AGENTES FINANCEIROS ............................................................. 9 
+4.1.1 Instituições já habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo ................................................................................................................................................. 9 
+4.1.2 Instituições não habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo ............................................................................................................................................... 10 
+4.1.3 Termo de Adesão ............................................................................................................................ 11 
+4.2 HABILITAÇÃO TECNOLÓGICA DOS AGENTES FINANCEIROS ................................................... 12 
+4.2.1 Instituições já habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo ............................................................................................................................................... 12 
+4.2.2 Instituições não habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo ............................................................................................................................................... 12 
+5 ENVIO DE INFORMAÇÕES AO ADMINISTRADOR .................................................................................... 13 
+5.1 PRÉ-VALIDAÇÃO ON-LINE .............................................................................................................. 14 
+5.2 EVENTO FORMALIZAÇÃO DE OPERAÇÃO ................................................................................... 15 
+5.3 EVENTO LIBERAÇÃO DE CRÉDITO ............................................................................................... 16 
+5.4 EVENTO INFORMAÇÃO DO SALDO DEVEDOR ............................................................................ 17 
+5.5 EVENTO OPERAÇÃO PENDENTE .................................................................................................. 17 
+5.6 EVENTO OPERAÇÃO IMPUGNADA PELO ADMINISTRADOR ...................................................... 18 
+5.7 EVENTO OPERAÇÃO ENCERRADA PELO ADMINISTRADOR ..................................................... 18 
+6 MECANISMOS DE PROTEÇÃO DO FGO .................................................................................................... 18 
+7 SITUAÇÃO DO FUNDO E DO AGENTE....................................................................................................... 19 
+8 INTERCÂMBIO DE DADOS .......................................................................................................................... 19 
+9 TRANSMISSÃO DE ARQUIVOS ................................................................................................................... 21 
+10 SUBSTITUIÇÃO DE ARQUIVO REMESSA .................................................................................................. 21 
+11 MOVIMENTAÇÃO FINANCEIRA .................................................................................................................. 22 
+11.1 VALORES A MOVIMENTAR ............................................................................................................. 22 
+11.2 MOVIMENTAÇÃO FINANCEIRA VIA STR ....................................................................................... 23 
+11.3 MOVIMENTAÇÃO FINANCEIRA VIA CRÉDITO/DÉBITO EM CONTA ............................................ 25 
+11.4 ARQUIVO RETORNO DA MOVIMENTAÇÃO FINANCEIRA ............................................................ 26 
+12 REGRAS DE VALIDAÇÃO DOS REGISTROS ............................................................................................ 27 
+13 LEIAUTE DOS ARQUIVOS REMESSA E RETORNO .................................................................................. 29 
+13.1 REMESSA - EVENTOS DO AGENTE FINANCEIRO - GFG0010 ..................................................... 30 
+13.2 1º RETORNO - CONFIRMAÇÃO DE RECEBIMENTO DA REMESSA - GFGF010R ....................... 33 
+13.3 2º RETORNO - VALIDAÇÃO DOS EVENTOS DO AGENTE - GFGF200R ....................................... 34 
+13.4 3º RETORNO - EVENTOS DO ADMINISTRADOR - GFGF290R ..................................................... 36 
+13.5 4º RETORNO - MOVIMENTAÇÃO FINANCEIRA - GFGF450R ........................................................ 38 
+13.6 INFORMATIVO DIÁRIO - GFGF270R .............................................................................................. 40 
+14 TABELAS ....................................................................................................................................................... 42 
+14.1 CÓDIGOS DE REJEIÇÃO DA REMESSA OU PRÉ-VALIDAÇÃO .................................................... 42 
+14.2 CÓDIGOS DE REJEIÇÃO DOS REGISTROS DA REMESSA OU PRÉ-VALIDAÇÃO ..................... 42 
+14.3 TIPO DE PESSOA ............................................................................................................................ 48 
+14.4 PÚBLICO-ALVO ................................................................................................................................ 48 
+14.5 MODALIDADE DE CRÉDITO ............................................................................................................ 48 
+14.6 FINALIDADE DO CRÉDITO .............................................................................................................. 48 
+14.7 FONTE DE RECURSOS ................................................................................................................... 49 
+14.8 PROGRAMA DE CRÉDITO .............................................................................................................. 49 
+14.9 TIPO DE CRONOGRAMA DE AMORTIZAÇÃO ............................................................................... 49 
+14.10 CONDIÇÃO ESPECIAL DA OPERAÇÃO ......................................................................................... 49 
+14.11 TIPO DE FORMALIZAÇÃO ............................................................................................................... 49 
+14.12 TIPO DE PENDÊNCIA DA OPERAÇÃO ........................................................................................... 49 
+14.13 MOTIVO DE ENCERRAMENTO DA OPERAÇÃO PELO ADMINISTRADOR .................................. 49 
+14.14 SITUAÇÃO DA OPERAÇÃO ............................................................................................................. 50 
+
+ 
+5 
+#Pública 
+14.15 MOTIVO DE IMPUGNAÇÃO DA OPERAÇÃO .................................................................................. 50 
+14.16 TIPO DE MOVIMENTAÇÃO FINANCEIRA ....................................................................................... 50 
+14.17 NATUREZA DA MOVIMENTAÇÃO FINANCEIRA ............................................................................ 50 
+15 DIPOSIÇÕES GERAIS .................................................................................................................................. 51 
+15.1 DISPOSIÇÕES GERAIS ................................................................................................................... 51 
+ 
+  
+
+ 
+6 
+#Pública 
+1 GLOSSÁRIO 
+Administrador: Banco do Brasil S.A. no papel de Administrador do FGO. 
+Agente ou Agente Financeiro : instituição habilitada pelo Administrador para cumprir o papel de Agente 
+Financeiro do FGO, contratando operações de crédito com garantia do Fundo.  
+BB SIA: Sistema de Integração via Arquivos do Banco do Brasil (https://gmtedi.bb.com.br). 
+Carteira do FGO Novo Desenrola Brasil: é composta pela soma dos valores financiados em todas as operações 
+contratadas com garantia do FGO Novo Desenrola Brasil, por todos os Agentes. 
+Carteira do Agente : é composta pela soma dos valores garantidos em todas as operações contratadas pelo s 
+Agentes com garantia do FGO Novo Desenrola Brasil. 
+Cessão de Crédito: ocorre quando o credor de uma obrigação, chamado cedente, transfere a um terceiro, 
+chamado cessionário, sua posição ativa na relação obrigacional, independentemente da autorização do devedor, 
+que se chama cedido. 
+Connect:Direct: software da IBM para transferência de arquivos ponto-a-ponto. 
+Cronogramas independentes : ocorre nas operações em que, a cada liberação de crédito, é criado um 
+cronograma de amortização independente dos cronogramas de amortizações das liberações anteriores, cada 
+qual com sua respectiva data de vencimento. 
+Cronogramas unificados: ocorre nas operações em que, a cada liberação de crédito, o novo valor liberado é 
+somado ao saldo devedor das liberações anteriores e este montante passa a ter um novo e único cronograma 
+de amortização com uma única data de vencimento. 
+Data da primeira liberação de crédito: data em que o Agente credita ao mutuário a primeira (ou única) parcela 
+do valor financiado . Quando se tratar de renegociação  de dívidas , considera-se a data em que dívidas são 
+quitadas pela nova operação de crédito. 
+Data de entrega do Arquivo Remessa ou Data de entrega do registro : é a data em que o Arquivo Remessa  
+enviado pelo Agente entrou no domínio computacional do Administrador. 
+Data de formalização da operação : é a data em que o instrumento de crédito da operação foi assinado pelas 
+partes. 
+Data de vencimento da operação : data de exigibilidade da última parcela prevista no cronograma de 
+amortizações da operação de crédito. 
+FGO: Fundo de Garantia de Operações de que trata a Lei 12.087, de 11.11.2009.  
+FGO Novo Desenrola Brasil : um dos programas de garantia do FGO, regido pelo Estatuto do FGO e pelo 
+Regulamento do Programa de Garantia FGO Novo Desenrola Brasil. 
+GFG: Gerenciador de Fundos Garantidores, sistema informático do Administrador do FGO responsável por 
+processar remessas dos Agentes Financeiros. 
+Instituição Participante: o mesmo que Agente ou Agente Financeiro. 
+Liberação de crédito : ocorre quando o Agente credita ao mutuário o valor financiado. A liberação de crédito 
+pode se dar em parcela única ou em parcelas múltiplas. No caso de renegociação de dívidas, ocorre quando as 
+dívidas são quitadas pela nova operação de crédito. 
+Liquidação da operação : ocorre quando se encerra o instrumento de crédito da operação. A amortização 
+integral do saldo devedor implica na liquidação da operação. 
+Mutuário: é a pessoa física beneficiária da operação de crédito. 
+Novo Desenrola Brasil : Programa Extraordinário de Reequilíbrio Financeiro das Famílias, vinculado ao 
+Ministério da Fazenda, com o objetivo de promover a recomposição da capacidade financeira das famílias, por 
+meio de incentivos à renegociação e regularização de dívidas em atrasos junto ao sistema financeiro , de que 
+trata a Medida Provisória nº 1.355, de 05 de maio de 2026. 
+Novação da dívida: conversão de uma dívida em outra para extinguir a primeira. 
+
+ 
+7 
+#Pública 
+Operação cedida pós-honra com deságio: é a operação que foi honrada e posteriormente leiloada ou cedida 
+a terceiros, com recuperação parcial do valor honrado.  
+Operação de crédito : é a operação financeira para renegociação de dívidas  vencidas, formalizada entre o 
+Agente e o mutuário por meio de um instrumento de crédito onde o Agente se compromete a repactuar as dívidas 
+do mutuário e este, por sua vez, se compromete a amortizar a dívida da nova operação obedecendo às condições 
+pactuadas no instrumento de crédito. 
+Operação em atraso: é a operação de crédito em que há uma ou mais parcelas de amortização vencidas e não 
+pagas. 
+Operação em normalidade : é a operação de crédito onde o mutuário está em dia com todas as parcelas de 
+amortização. 
+Operação extinta de pleno direito : é a operação de crédito que foi honrada pelo Fundo e posteriormente 
+ofertada em leilão público, sem interessados na aquisição. 
+Operação honrada: é a operação de crédito na qual o FGO honrou a garantia contratada e o valor honrado 
+ainda não foi totalmente recuperado ao Fundo. 
+Operação liquidada pós-honra com abatimento: é a operação que foi honrada e posteriormente liquidada com 
+recebimento parcial do valor honrado e abatimento do restante. 
+ 
+Operação liquidada pós-honra sem abatimento: é a operação que foi honrada e posteriormente liquidada com 
+recuperação integral do valor honrado. 
+ 
+Operação liquidada sem honra da garantia: é operação de crédito que foi liquidada sem ter sido honrada pelo 
+FGO. 
+ 
+Operação vencida: é a operação de crédito cuja última parcela do cronograma de amortizações venceu e ainda 
+não foi quitada pelo mutuário. 
+ 
+Saldo devedor: é composto pela soma do saldo devedor de capital com o saldo devedor de encargos.  
+ 
+Saldo devedor de capital (principal) : corresponde à soma dos valores liberados ao mutuário, mas ainda não 
+amortizados, apurada em uma determinada data. Para uma operação em normalidade, somente haverá saldo 
+devedor de capital em normalidade. Para uma operação em atraso, haverá saldo de capital em atraso e poderá 
+haver saldo de capital em normalidade. 
+ 
+Saldo devedor de encargos : corresponde à soma dos juros, correção monetária, acessórios e demais 
+componentes do saldo devedor, ainda não quitados. 
+Saldo honrado: valor da dívida do mutuário perante o FGO e que deve ser cobrado pelo Agente. Corresponde 
+ao valor honrado deduzido das eventuais recuperações parciais do valor honrado, ambos atualizados 
+monetariamente. 
+SCR: Sistema de Informações de Crédito do Banco Central do Brasil.  
+SELIC: Sistema Especial de Liquidação e Custódia do Banco Central do Brasil.  
+SPB: Sistema de Pagamentos Brasileiro do Banco Central do Brasil. 
+STR: Sistema de Transferência de Reservas do Banco Central do Brasil. 
+TMS: Taxa Média do Sistema Especial de Liquidação e Custódia do Banco Central do Brasil.  
+Valor comprometido: é o valor pelo qual a operação compromete o limite máximo da carteira do FGO Novo 
+Desenrola Brasil . Compromete também o limite máximo da carteira do Agente. O valor comprometido 
+corresponde ao valor da operação. 
+Valor da operação: é o valor total da repactuação das dívidas, excetuados os custos adicionais, como encargos, 
+taxas, tarifas, impostos, tributos, prêmios de seguro , acessórios e outras despesas inerentes à contratação do 
+crédito. 
+Valor financiado: o mesmo que “valor da operação”. 
+
+ 
+8 
+#Pública 
+Valor garantido: corresponde ao valor da operação multiplicado pelo percentual da garantia do FGO contratada. 
+No caso do FGO Novo Desenrola Brasil, esse percentual é de até 100% do valor de cada operação contratada, 
+com cobertura pelo Fundo da inadimplência limitada a 50% do saldo devedor da carteira à qual esteja vinculada. 
+Os custos adicionais, como encargos, taxas, tarifas, impostos, tributos, prêmios de seguro, acessórios e outras  
+despesas inerentes à contratação do crédito, não são garantidos pelo FGO. 
+Valor honrado: valor desembolsado pelo FGO a favor do Agente em atendimento à solicitação de honra da 
+garantia. 
+
+ 
+9 
+#Pública 
+2 NORMATIVOS 
+A operacionalização do FGO Novo Desenrola Brasil é regida pelos seguintes normativos:  
+a) Medida Provisória n.º 1.355, de 04.05.2026; 
+b) Portaria Normativa MF n.º 1.243, de 05.05.2026 e suas alterações; 
+c) Resolução CMN n.º 4.966, de 25.11.2021; 
+d) Estatuto Social e Regulamento do Programa de Garantia FGO Novo Desenrola Brasil aprovados em 
+Assembleia Geral; 
+e) Manual de Procedimentos Operacionais do FGO Novo Desenrola Brasil. 
+ 
+3 NATUREZA JURÍDICA DO FGO 
+O FGO é um fundo de natureza privada, sem personalidade jurídica própria, inscrito no CNPJ sob o nº 
+10.983.890/0001-52, criado pelo Banco do Brasil S.A. mediante autorização legal. 
+O FGO é administrado, gerido e representado, judicial e extrajudicialmente, pelo Banco do Brasil S.A. 
+4 HABILITAÇÃO NEGOCIAL E TECNOLÓGICA DOS AGENTES FINANCEIROS 
+Poderão aderir ao FGO Novo Desenrola Brasil , atuando como Agentes Financeiros no âmbito do Programa, e 
+assim requerer a garantia do FGO, instituições financeiras criadas por lei própria ou autorizadas a funcionar pelo 
+Banco Central do Brasil e que ofertem as seguintes operações de crédito, na forma da Medida Provisória  n.º 
+1.355, de 04.05.2026:  
+ 
+a) cartão de crédito, nas modalidades parcelada e rotativa; 
+b) cheque especial com utilização de limite de crédito em conta corrente; e 
+c) crédito pessoal sem consignação em folha, inclusive empréstimos pessoais decorrentes de 
+consolidação de dívida. 
+Para atuar como Agente Financeiro do FGO, no âmbito do FGO Novo Desenrola Brasil, a instituição interessada 
+deverá se habilitar negocial e tecnologicamente junto ao Administrador do Fundo.  
+ 
+A partir da habilitação negocial e da habilitação tecnológica com integração dos sistemas da instituição 
+participante com o sistema do Administrador do FGO, essa estará devidamente habilitada a atuar como Agente 
+Financeiro, podendo contratar operações de crédito com garantia do FGO Novo Desenrola Brasil. 
+4.1 HABILITAÇÃO NEGOCIAL DOS AGENTES FINANCEIROS 
+4.1.1 Instituições já habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo 
+ 
+As instituições já habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no Primeiro Passo 
+poderão realizar o processo simplificado de habilitação ao FGO Novo Desenrola Brasil, o qual compreende: 
+ 
+a) dispensa d a apresentação dos documentos listados nos tópicos 1 a 8  do item 4.1.2 , podendo o  
+Administrador solicitar algum deles, caso considere relevante; e 
+ 
+b) formalização obrigatória do Termo de Adesão específico para o FGO Novo Desenrola Brasil, seguindo 
+os passos descritos a seguir quanto à assinatura e encaminhamento. 
+
+ 
+10 
+#Pública 
+4.1.2 Instituições não habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo 
+ 
+Para habilitação negocial no âmbito do FGO Novo Desenrola Brasil , a instituição interessada deverá, 
+obrigatoriamente, providenciar os documentos a seguir: 
+1. Pedido de Habilitação ao FGO e Formulário de Procedimentos para Recuperação de Crédito, assinado por 
+representante legal da institui ção (n ão é necessário o reconhecimento de firma), cujos modelos estão 
+disponíveis no endereço eletrônico: https://www.bb.com.br/fgo. 
+O Pedido de Habilitação ao FGO deve ser acompanhado de relatório contendo informações sobre a estrutura 
+de governança, além das políticas e processo de crédito e cobrança  da instituição, observando o check list 
+anexo ao modelo de Pedido de Habilitação. Outros documentos considerados relevantes para a análise do 
+pedido de habilitação podem ser encaminhados em anexo. 
+No caso de sistemas cooperativos de crédito, em que suas diversas entidades sejam, para fins do FGO Novo 
+Desenrola Brasil , consideradas um único concedente de cr édito, a habilita ção deverá ser realizada pelas 
+cooperativas centrais, federações de cooperativas, bancos cooperativos ou confedera ções de cooperativas. 
+A sociedade a ser habilitada deverá possuir poderes para representa ção das cooperativas singulares, 
+suficientes para a habilitação ao FGO Novo Desenrola Brasil.  
+2. Declaração do montante operado no segmento de crédito para o público assistido pelo Novo Desenrola Brasil, 
+no ano anterior ao do pedido de habilitação, apresentando o total da carteira de crédito de pessoa física, 
+assinada por representante legal da instituição participante (não é necessário o reconhecimento de firma). de 
+Informações  
+ A Declaração deverá ser elaborada pela própria instituição e o respectivo montante pode ser obtido junto ao 
+Sistema de Crédito (SCR), em consulta ao endereço eletrônico https://www3.bcb.gov.br/ifdata/, acessível por 
+meio da página do Banco Central (www.bcb .gov.br) > Estabilidade financeira > Sistema Financeiro Nacional 
+> Sistemas e informações ao BC > Sistema de Informações de Créditos (SCR) > Links relacionados > IF.data 
+- Dados Selecionados de Entidades Supervisionadas, informando:  
+ a) data-base "12/xxxx” (onde xxxx é o ano anterior ao pedido de habilitação);  
+ b) tipo de instituição "Conglomerados Financeiros e Instituições Independentes";  
+ c) relatório "Carteira de crédito ativa Pessoa Física – modalidade e prazo de vencimento". 
+3. Certidão de Autorização de Funcionamento em que conste habilitação no Banco Central do Brasil para a 
+concessão de crédito, disponível em https://www3.bcb.gov.br/certiaut/emissao/, acessível por meio da página 
+do Banco Central ( www.bcb.gov.br) > Estabilidade financeira > Sistema Financeiro Nacional > Organização 
+> Licenciamento > Certidão de autorização de funcionamento > Emissão da Certidão para Entidades 
+Supervisionadas. 
+4. Certidão Negativa de Débitos Relativos a Créditos Tributários Federais e à Dívida Ativa da União, relacionada 
+a débitos previdenciários e n ão previdenciários inscritos pela Procuradoria -Geral da Fazenda Nacional em 
+Dívida Ativa da Uni ão e a d ébitos previdenci ários e n ão previdenci ários administrados pela Secretaria da 
+Receita Federal do Brasil, para fins de comprovação de regularidade fiscal, previdenciária e junto à Fazenda 
+Nacional. 
+A emissão da certidão está disponível em: 
+http://servicos.receita.fazenda.gov.br/Servicos/certidao/CNDConjuntaInter/InformaNICertidao.asp?tipo=2 . 
+Serão admitidas a Certid ão Negativa de D ébitos (CND) e a Certid ão Positiva com Efeitos de Negativa de 
+Débitos (CPEND). 
+5. Certidão atestando a inexistência de débitos inadimplidos perante a Justiça do Trabalho, emitida pelo Tribunal 
+Superior do Trabalho (TST), para fins de comprovação de regularidade com aquela Justiça.  
+A emissão da certidão está disponível em: http://www.tst.jus.br/certidao.  
+Serão admitidas a Certid ão Negativa de D ébitos Trabalhistas (CNDT) e a Certid ão Positiva com Efeito de 
+Negativa. 
+
+ 
+11 
+#Pública 
+6. Certificado de Regularidade junto ao Fundo de Garantia por Tempo de Serviço (CRF), disponível em 
+https://consulta-crf.caixa.gov.br/consultacrf/pages/consultaEmpregador.jsf. 
+7. Comprovante emitido pela Secretaria Estadual de Fazenda de que a institui ção não possui débitos relativos 
+a tributos estaduais na unidade federativa do domicílio fiscal. 
+8. Comprovante emitido pela Prefeitura Municipal de que a institui ção não possui débitos com o executivo 
+municipal do domicílio fiscal. 
+Os documentos citados nos tópicos 4 a 8 deverão estar vigentes na data do envio da documentação.  
+Todos os documentos citados nos tópicos 1 a 8 deverão ser encaminhados para a Gerência de Fundos  
+Garantidores e Programas da Unidade Estratégia Governo, no endereço eletrônico fgo@bb.com.br. A mensagem 
+deverá ser intitulada "FGO Novo Desenrola Brasil - Habilitação negocial", seguido do nome da instituição.  
+Após o recebimento de toda a documentação, o Administrador terá até 20 (vinte) dias úteis para realizar a análise 
+do pedido de habilitação. 
+ 
+Após análise dos documentos recebidos, o Administrador do FGO poderá aprovar a habilitação negocial, 
+reprová-la ou ainda solicitar informações adicionais à instituição participante. 
+4.1.3 Termo de Adesão  
+ 
+Aprovada a habilitação negocial completa ou simplificada, a instituição formalizará o Termo de Adesão ao FGO 
+Novo Desenrola Brasil, conforme modelo disponível no endereço eletrônico https://www.bb.com.br/fgo, no qual 
+declara aceitação das condições descritas nos normativos do Fundo, para todos os fins de direito.  
+ 
+O Termo de Adesão ao FGO Novo Desenrola Brasil deverá ser assinado pelo representante legal da instituição, 
+cuja firma deverá ser reconhecida em cartório. Alternativamente, é admitida a assinatura digital do representante 
+legal, certificada por entidade credenciada à Infraestrutura de Chaves Públicas B rasileiras (ICP Brasil). 
+ 
+No caso de sistemas cooperativos de crédito, a adesão deverá ser realizada pela mesma sociedade que realizou 
+a habilitação, que deverá possuir poderes suficientes para representa ção das cooperativas singulares junto ao 
+FGO Novo Desenrola Brasil. 
+O Termo de Adesão, independente da forma da assinatura, deverá ser encaminhado de forma eletrônica, 
+juntamente com ato, termo, normativo ou procuração que outorga o poder de representação legal da instituição 
+ao assinante, para fgo@bb.com.br. 
+ 
+A mensagem deverá ser intitulada "FGO Novo Desenrola Brasil - Termo de Adesão", seguido do nome da  
+instituição. 
+ 
+Para o Termo de Adesão assinado digitalmente e documentos de outorga de poder que possam ser validados 
+digitalmente, não é necessário o encaminhamento por meio físico, bastando o envio por meio eletrônico.  
+ 
+Caso contrário, o Termo de Adesão assinado e cópias autenticadas dos documentos de outorga de poder 
+deverão ser encaminhados fisicamente para:  
+ 
+Banco do Brasil  
+Unidade Estratégia Governo 
+Gerência de Fundos Garantidores e Programas  
+SAUN, Quadra 5, Torre 1, Lote B, Ed. Banco do Brasil, 10º andar 
+CEP: 70.040-912 
+Brasília (DF) 
+ 
+As instituições não participantes do SPB/STR dever ão informar, na mensagem de encaminhamento do Termo 
+de Ades ão, a ag ência e conta corrente ativa junto ao Banco do Brasil a ser utilizada nas movimenta ções 
+financeiras do FGO Novo Desenrola Brasil. 
+
+ 
+12 
+#Pública 
+4.2 HABILITAÇÃO TECNOLÓGICA DOS AGENTES FINANCEIROS 
+4.2.1 Instituições já habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo 
+ 
+A habilitação tecnológica no âmbito do FGO Novo Desenrola Brasil compreende: 
+a) Acionamento da API FGO para pré-validação on-line em ambiente de homologação; 
+b) Envio de arquivo remessa em ambiente de homologação; e 
+c) Recebimento de arquivo retorno em ambiente de homologação. 
+Para acionamento da API em ambiente de homologação, a instituição deverá utilizar as mesmas credenciais de 
+acesso à API FGO vigentes para os demais programas de garantia do FGO.  
+Quando a instituição tiver concluído a habilitação negocial  e os testes com sucesso (acionamento da API, envio 
+de arquivo remessa e recebimento de arquivo retorno em ambiente de homologação), o Administrador do FGO 
+registrará a instituição como agente financeiro do FGO Novo Desenrola Brasil em ambiente de produção. 
+A instituição também deverá utilizar as credenciais de acesso à API FGO em produção usadas para os demais 
+programas de garantia do FGO nos quais opera. Tais credenciais são distintas daquelas aplicadas em ambiente 
+de homologação. 
+A emissão de novas credenciais deverá ser realizada pela instituição  conforme os procedimentos definidos n o 
+Portal Developers, acessando https://www.bb.com.br/site/developers/. Nesse caso, o Termo de Adesão de que 
+trata o item 4.1.3 já deverá ter sido assinado e enviado ao FGO. 
+4.2.2 Instituições não habilitadas ao FGO Pronampe, ao FGO Desenrola Brasil ou ao FGO Acredita no 
+Primeiro Passo  
+ 
+Após concluída a habilitação negocial, a instituição interessada deverá solicitar sua habilitação tecnológica no 
+âmbito do FGO Novo Desenrola Brasil, a qual compreende: 
+a) Preenchimento e assinatura da Autorização de Cadastro de Responsável Técnico, disponível em  
+https://www.bb.com.br/fgo; 
+b) Realização dos procedimentos definidos no Portal Developers, acessando 
+https://www.bb.com.br/site/developers/; 
+c) Acionamento da API FGO para pré-validação on-line em ambiente de homologação; 
+d) Envio de arquivo remessa em ambiente de homologação; e 
+e) Recebimento de arquivo retorno em ambiente de homologação. 
+A Autorização de Cadastro de Responsável Técnico deverá ser assinada pelo representante legal da instituição, 
+cuja firma deverá ser reconhecida em cartório. Alternativamente, é admitida a assinatura digital do representante 
+legal, certificada por entidade credenciada à Infraestrutura de Chaves Públicas Brasileiras (ICP Bra sil). 
+No caso de sistemas cooperativos de cr édito, a Autorização de Cadastro de Responsável Técnico deverá ser 
+assinada pela mesma sociedade que fará a habilitação negocial.  
+Independente da forma da assinatura, a Autorização deverá ser encaminhada de forma eletrônica, juntamente 
+com ato, termo, normativo ou procuração que outorga o poder de representação legal da instituição participante 
+ao assinante, para fgo@bb.com.br. 
+ 
+A mensagem deverá ser intitulada "FGO Novo Desenrola Brasil - Habilitação tecnológica", seguido do nome da  
+instituição. 
+
+ 
+13 
+#Pública 
+ 
+Para a Autorização de Cadastro de Responsável Técnico assinada digitalmente e documentos de outorga de 
+poder que possam ser validados digitalmente, não é necessário o encaminhamento por meio físico, bastando o 
+envio por meio eletrônico. 
+ 
+Caso contrário, a Autorização de Cadastro de Responsável Técnico assinada e cópias autenticadas dos 
+documentos de outorga de poder deverão ser encaminhados fisicamente para os endereços informados no item 
+4.1.3. 
+ 
+No caso de sistemas cooperativos de cr édito, toda interação com o FGO deverá ser realizada pela sociedade 
+habilitada, que assumirá responsabilidade civil e administrativa pelos atos das cooperativas singulares de crédito 
+por ela representadas. 
+Após o recebimento e validação da Autorização de Cadastro de Responsável Técnico, o Administrador do FGO 
+irá cadastrar o(s) responsável(is) técnico(s) no sistema específico de gestão do FGO. Em seguida, o cadastrado 
+deverá acessar o Portal Developers ( https://www.bb.com.br/site/developers/) e realizar os procedimentos para 
+integração da API FGO. 
+Quando a instituição tiver concluído os testes com sucesso (acionamento da API, envio de arquivo remessa e 
+recebimento de arquivo retorno em ambiente de homologação ), o Administrador do FGO registrará a instituição 
+como agente financeiro do FGO Novo Desenrola Brasil em ambiente de produção .  
+A partir deste momento, a instituição estará apta para realizar contratações de operações garantidas pelo FGO 
+Novo Desenrola Brasil. 
+5 ENVIO DE INFORMAÇÕES AO ADMINISTRADOR 
+O Agente informará ao Administrador os eventos ocorridos nas operações de crédito, desde a sua formalização, 
+por meio de Arquivos Remessa. 
+Com base nos eventos informados pelo Agente, o Administrador manterá atualizado o cadastro das operações 
+garantidas pelo FGO. Dependendo dos eventos informados, a operação de crédito na base de dados do 
+Administrador poderá apresentar-se em um dos estados abaixo: 
+FORMALIZADA: estado inicial da operação cadastrada junto ao Administrador, para a qual ainda não ocorreu 
+liberação de crédito. 
+NORMALIDADE: estado da operação em que já ocorreu liberação de crédito e o saldo devedor de capital 
+encontra-se integralmente em normalidade. 
+ATRASADA: estado da operação em que já ocorreu liberação de crédito e o saldo devedor de capital encontra-
+se integral ou parcialmente em atraso. 
+HONRADA: estado da operação cuja garantia foi honrada pelo Fundo e existe saldo honrado a recuperar . 
+LIQUIDADA PÓS -HONRA SEM ABATIMENTO : estado da operação que foi honrada pelo Fundo e o saldo 
+honrado foi integralmente recuperado. 
+LIQUIDADA SEM HONRA DA GARANTIA : estado da operação que foi liquidada sem ter sido objeto de honra 
+da garantia pelo FGO. 
+ENCERRADA PELO ADMINISTRADOR: estado da operação que foi encerrada por iniciativa do Administrador 
+após exaurido o prazo máximo em pendência. 
+IMPUGNADA: estado da operação que foi impugnada por iniciativa do Administrador após constatado 
+descumprimento das normas pelo Agente. 
+CANCELADA PELO AGENTE : estado da operação que foi cancelada a pedido do Agente ; é o mesmo que o 
+estado Cancelada pelo Agente sem devolução de CCG. 
+LIQUIDADA PÓS -HONRA COM ABATIMENTO:  estado da operação que foi honrada pelo Fundo e 
+posteriormente liquidada mediante recebimento parcial do saldo honrado, com abatimento do restante em função 
+de renegociação pós-honra. 
+
+ 
+14 
+#Pública 
+CEDIDA PÓS-HONRA COM DESÁGIO: é o estado da operação que foi honrada pelo Fundo e posteriormente 
+leiloada ou cedida a terceiros, com recuperação parcial do saldo honrado.  
+EXTINTA DE PLENO DIREITO: estado da operação que foi honrada pelo Fundo e posteriormente ofertada em 
+leilão público, sem interessados na aquisição. 
+5.1 PRÉ-VALIDAÇÃO ON-LINE 
+Antes de formalizar um novo contrato, o Agente deverá submeter os dados da pretensa operação de crédito ao 
+Administrador para pré-validação on-line com reserva, via interface de programação de aplicativo (API), conforme 
+swagger disponibilizado pelo Administrador do FGO aos agentes financeiros.  
+ 
+A API a ser utilizada deverá ser API FGO. 
+ 
+O canal e o protocolo de transmissão dos dados para pré -validação on-line são definidos em conjunto pelas 
+áreas técnicas do Agente e do Administrador. 
+ 
+As pré-validações on-line podem ocorrer todos os dias da semana. 
+ 
+Em dias úteis, o sistema de pré-validação on-line fica indisponível entre 23h05 e 00h05, para processamento dos 
+arquivos remessa enviados no dia. Em casos excepcionais esse horário poderá se estender.  
+ 
+A pré-validação on-line é disponibilizada pelo Administrador para efeito de controle dos limites de cada mutuário, 
+mediante consulta por CPF. O valor da  pretensa operação não é computado na resposta desta consulta , sendo 
+que: 
+ 
+a) Agentes Financeiros que utilizam a API FGO Versão 1 receber ão retorno do saldo comprometido do 
+mutuário; 
+ 
+b) Agentes Financeiros que utilizam a API FGO V ersão 2 (dispon ível no Portal Developers) receber ão 
+retorno da margem disponível do mutuário para novas contratações no FGO Novo Desenrola Brasil e o 
+saldo comprometido do mutuário. 
+ 
+Um mesmo mutuário poderá contratar apenas uma operação por Agente Financeiro, limitada a R$ 15.000,00 
+(quinze mil reais), podendo contratar operações em mais de um Agente, observados os limites do mutuário, do  
+Agente e do FGO Novo Desenrola Brasil. 
+ 
+Na pré-validação on-line da Formalização de Operação, o Agente deverá informar os mesmos dados definidos 
+para o respectivo evento no Arquivo Remessa, observando todos os parâmetros do Evento Formalização de 
+Operação. 
+ 
+O Agente receberá, em tempo real (até 10 segundos), um código indicativo da aceitação ou rejeição da pretensa 
+formalização. Os códigos estão detalhados nas “Tabelas de Rejeição” deste Manual.  
+ 
+A pré-validação on-line com reserva deve ser realizada em até 1 5 (quinze) dias corridos, contados da data de 
+formalização da operação. 
+ 
+A reserva tem vigência de 7 (sete) dias úteis, contados do dia útil seguinte ao qual o Agente executou a pré -
+validação. 
+ 
+Com a pré-validação on-line com reserva, o FGO assume o compromisso de aceitar a nova operação de crédito 
+quando esta for informada no Arquivo Remessa durante a vigência da reserva, e com dados idênticos aos pré-
+validados. Deve ser também observado o prazo de até 7 (sete) dias corridos desde a data da formalização da 
+operação até a data de envio do Arquivo Remessa. 
+ 
+Cada operação só pode ter uma pré-validação on-line com reserva ativa. 
+ 
+Em cada pré-validação on-line aprovada pelo Administrador, o Agente receberá um número de identificação da 
+pré-validação. Este número deverá ser armazenado pelo Agente e informado posteriormente no Arquivo 
+Remessa. 
+ 
+
+ 
+15 
+#Pública 
+Transcorrido o prazo de 7 (sete) dias úteis, contados do dia útil seguinte ao qual o Agente executou a pré -
+validação, sem que o Agente tenha informado a formalização no Arquivo Remessa, a pré -validação on -line 
+perderá seu efeito. A partir de então, o Agente poderá efetuar nova pré-validação com reserva. 
+ 
+É possível o cancelamento da pré-validação da operação pelo Agente durante seu prazo de vigência 7 (sete) por 
+meio da utilização da API Cancelar Reserva de Pré -validação, cujo preenchimento é detalhado no s wagger 
+encaminhado pelo Administrador. 
+ 
+Os cancelamentos de pré -validações podem ocorrer todos os dias da semana das 00h05 até as 23h05. Entre 
+23h06 e 00h04 não será possível realizar cancelamentos de pré -validações. Excepcionalmente, o horário de 
+indisponibilidade para envio dos cancelamentos d e pré-validações pode se estender, em função de atrasos nos 
+processamentos noturnos do sistema de gestão do Fundo. 
+ 
+A pré-validação on-line é disponibilizada pelo Administrador para efeito de controle dos limites de cada mutuário 
+antes de formalizar um novo contrato e deve ser utilizada exclusivamente com este objetivo, sendo vedado seu 
+acionamento para qualquer outro fim.  
+5.2 EVENTO FORMALIZAÇÃO DE OPERAÇÃO 
+Somente poderão ser garantidas pelo FGO operações destinadas à repactuação de dívidas vencidas de pessoas 
+físicas que atendam aos seguintes requisitos: 
+ 
+I. ter renda mensal igual ou inferior a cinco salários mínimos; e 
+ 
+II. possuir contratos de operações de crédito celebrados com o Agente Financeiro até 31 de janeiro de 2026 
+e que, no dia 03 de maio de 2026 , estavam com parcelas em atraso entre 91 (noventa e um) e 720 
+(setecentos e vinte) dias, nas seguintes modalidades: 
+ 
+a) cartão de crédito, nas modalidades parcelada e rotativa; 
+b) cheque especial com utilização de limite de crédito em conta corrente; e 
+c) crédito pessoal sem consignação em folha, inclusive empréstimos pessoais decorrentes de 
+consolidação de dívida. 
+Como critério de enquadramento dos mutuários, serão adotadas as informações de renda declaradas ao Sistema 
+de Informações de Créditos do Banco Central do Brasil, aferidas pelos próprios Agentes Financeiros com que os 
+mutuários possuam vínculo.  
+ 
+Somente poderão ser garantidas pelo FGO as operações de crédito contratadas no âmbito do Programa Novo 
+Desenrola Brasil, nos termos e condições definidos na Medida Provisória nº 1.355, de 04 de maio de 2026, e na 
+Portaria Normativa MF nº 1.243, de 05 de maio de 2026. 
+ 
+Um mesmo mutuário poderá contratar apenas uma operação por Agente Financeiro, limitada a R$ 15.000,00 
+(quinze mil reais), podendo contratar operações em mais de um Agente, observados os limites do mutuário, do 
+Agente e do FGO Novo Desenrola Brasil. 
+ 
+Após a formalização do instrumento de crédito com o mutuário, o Agente informará os dados da nova operação 
+ao Administrador por meio do evento “Formalização de Operação” no Arquivo Remessa, mesmo que ainda não 
+tenha ocorrido a liberação do crédito. 
+ 
+O prazo para envio do evento “Formalização de Operação” é de até 1 5 (quinze) dias corridos, contados da data 
+de formalização do instrumento de crédito original até a data de envio do Arquivo Remessa. O evento também  
+deve ser enviado durante a vigência da pré-validação com reserva. 
+ 
+O evento “Formalização de Operação” deve ser encaminhado com dados idênticos aos pré-validados. 
+ 
+Excepcionalmente, caso a data de formalização, por motivo de força maior, tenha sido alterada em relação à 
+data informada na pré -validação, a nova data será aceita no evento “Formalização de Operação”, bem como a 
+nova data de vencimento, caso sejam posteri ores às informadas na pré -validação, mas iguais ou anteriores à 
+data da remessa, observado o prazo máximo de vencimento das operações do programa de garantia.   
+ 
+
+ 
+16 
+#Pública 
+ 
+O Agente deverá informar o número da pré -validação na remessa para ter assegurada a aceitação do evento, 
+desde que atendidos os requisitos descritos no item “Pré-validação on-line”. 
+ 
+As remessas transmitidas em dias  não úteis terão sua validação e processamento  adiados para o dia útil 
+seguinte, podendo conflitar com uma nova remessa que venha a ser transmitida naquele dia, o que causaria a 
+substituição do primeiro arquivo.  
+ 
+Assim, o arquivo remessa com o evento de Formalização das operações que tiveram pré-validação em dia não 
+útil deve ser enviado no primeiro dia útil subsequente, juntamente com as contratações ocorridas naquele dia, 
+em arquivo único.  
+ 
+A operação estará efetivamente cadastrada e garantida pelo FGO somente após : 
+ 
+a) a validação dos dados da operação pelo Administrador e a validação da operação no SCR do Banco 
+Central do Brasil, resguardada a hipótese de impugnação posterior pelo Administrador. 
+ 
+Caso a operação não se encontre no SCR do Banco Central, a operação estará cadastrada no FGO e o 
+Agente poderá informar os eventos subsequentes, entretanto a operação estará pendente e não poderá 
+ser honrada pelo Fundo enquanto a pendência não for regularizada. 
+ 
+b) o pagamento pelo mutuário da primeira parcela da dívida. 
+ 
+Caso o mutuário opte pela utiliza ção dos recursos do FGTS para amortiza ção parcial das d ívidas 
+existentes, a opera ção no âmbito do Novo Desenrola Brasil estará eleg ível à garantia pelo FGO, 
+independentemente do pagamento da primeira parcela dessa nova operação. 
+ 
+Nos demais casos,  na hipótese de não haver pagamento da primeira parcela  pelo mutuário, o Agente 
+Financeiro deverá enviar ao FGO o evento de cancelamento da operação e não poderá solicitar ao FGO 
+a honra da garantia desta operação. 
+ 
+O cumprimento deste procedimento constará como item obrigatório de verificação no âmbito da auditoria 
+externa independente do Agente Financeiro. 
+ 
+Caso seja constata não conformidade quanto a este procedimento, o Agente Financeiro ficará impedido 
+de solicitar honra da garantia das operações do FGO Novo Desenrola Brasil.  
+ 
+O resultado da validação dos dados pelo Administrador será informado ao Agente através de arquivo  retorno, 
+sendo que a validação do cadastro da operação no SCR do Banco Central ocorrerá nos dias seguintes, em fluxo 
+distinto. 
+ 
+A operação de crédito será identificada na base de dados do Administrador por meio do “código identificador da  
+operação”. Este código é definido pelo próprio Agente e informado ao Administrador junto aos demais dados 
+cadastrais da operação. Cada nova operação deve receber um código identificador único dentre todas as 
+operações do Agente. Todos os eventos informado s doravante devem referir -se à operação por meio do seu 
+código identificador. 
+ 
+A formalização da operação pelo Agente aumenta o comprometimento da carteira do Fundo e do Agente pelo 
+valor garantido, reduzindo a margem para a contratação de novas operações.  
+5.3 EVENTO LIBERAÇÃO DE CRÉDITO 
+O Agente deverá informar ao Administrador sempre que ocorrer liberação de crédito.  
+ 
+O prazo para envio do evento “Liberação de Crédito”  é de até 20 dias corridos após a data em que houve a 
+liberação do crédito. 
+ 
+A obrigação do Agente informar o saldo devedor nasce com a primeira liberação de crédito. 
+ 
+Será encerrada automaticamente a operação que tiver prazo de vencimento expirado sem que tenha havido a 
+liberação de crédito.  
+ 
+
+ 
+17 
+#Pública 
+A liberação de crédito pelo Agente não altera o comprometimento da carteira do Fundo nem do Agente, mantendo 
+inalterada a margem para a contratação de novas operações. 
+5.4 EVENTO INFORMAÇÃO DO SALDO DEVEDOR 
+O Agente deverá informar mensalmente ao Administrador o saldo devedor de todas as operações em situação 
+de normalidade ou atraso. 
+A obrigação do Agente informar o saldo devedor nasce com a primeira liberação de crédito e só cessa quando 
+ocorre algum dos seguintes eventos: liquidação da operação, honra da garantia, cancelamento de operação pelo 
+Agente, encerramento da operação pelo Administrador ou impugnação da operação pelo Administrador. A 
+obrigação de o Agente informar o saldo devedor volta a existir quando ocorre a reativação da operação liquidada 
+ou devolução do valor honrado. 
+O Agente deverá enviar a informação de saldo ao Administrador até o 9º dia útil de cada mês, contendo a posição 
+do saldo no último dia do mês anterior. 
+Serão rejeitadas as informações de saldo de operações que não tiverem o envio e aceite da informação de saldo 
+no mês anterior ou que apresentarem lacuna entre a última informação de saldo aceita e a que está sendo 
+enviada. 
+A soma dos saldos de capital em normalidade e capital em atraso não pode ser maior que o valor liberado e nem 
+maior que o valor da operação. 
+Caso o Agente não informe o saldo devedor até o 9º dia útil do mês, ou a informação do saldo seja rejeitada pelo 
+Administrador, a operação será considerada pendente da informação de saldo , devendo o Agente providenciar 
+sua regularização. 
+Quando uma operação se encontrar pendente de informação de saldo, o Agente será alertado. Serão indeferidas 
+pelo Administrador do Fundo , de forma automática,  as solicitações de pagamento de honra de  operações com 
+pendência de envio de informação de saldo até que a situação seja regularizada.   
+Se a operação for informada com saldo de capital em atraso, deverá ser também registrada a data exata do início 
+da inadimplência. Enquanto a operação permanecer com capital em atraso, a data de início da inadimplência 
+deverá ser informada, de acordo com os registros da operação no sistema do Agente. 
+Quando ocorrer amortização integral do saldo devedor, o Agente não precisa informar o saldo zero, devendo 
+informar a liquidação da operação. Caso o Agente informe saldo zero para a operação e não informe a liquidação 
+da operação, esta será considerada pendente de liquidação.  
+ 
+Caso o Agente informe existência de saldo em normalidade para operação com data de vencimento já expirada, 
+esta será considerada pendente.  
+ 
+A alteração do saldo devedor não altera o comprometimento da carteira do Fundo nem do Agente, mantendo 
+inalterada a margem para a contratação de novas operações.  
+5.5 EVENTO OPERAÇÃO PENDENTE 
+A operação de crédito será considerada pendente de informação por parte do Agente nos seguintes casos:  
+a) Quando o Agente deixar de informar o saldo devedor mensal da operação ou quando informá -lo 
+incorretamente causando a recusa do saldo pelo Administrador; 
+b) Quando o Agente informar saldo devedor igual a zero e não informar a liquidação da operação;  
+c) Quando o vencimento final da operação estiver expirado e o Agente continuar informando saldo em 
+normalidade; 
+d) Quando a operação de crédito não for localizada no SCR do Banco Central do Brasil; 
+O Administrador informará ao Agente sempre que a operação estiver pendente.  
+Cabe ao agente financeiro avaliar as ocorrências e providenciar sua regularização tempestivamente . 
+
+ 
+18 
+#Pública 
+Serão indeferidas pelo Administrador do Fundo, de forma automática, as solicitações de pagamento de honra de 
+operações de crédito que estiverem pendentes por algum dos motivos acima até que a pendência seja 
+regularizada. 
+A operação com pendência não regularizada tempestivamente fica sujeita à impugnação pelo Administrador. 
+5.6 EVENTO OPERAÇÃO IMPUGNADA PELO ADMINISTRADOR 
+A operação de crédito que permanecer em alguma das situações de pendência previstas neste documento 
+poderá ser impugnada pelo Administrador, com consequente perda da garantia do FGO. 
+Nos termos do Estatuto do FGO, o Administrador poderá solicitar ao Agente o fornecimento de documentos 
+relativos às operações de crédito garantidas pelo Fundo.  Caso seja constatado o descumprimento das normas 
+do FGO pelo Agente, o Administrador poderá impugnar a operação de crédito, independentemente do estado 
+atual da operação. 
+O Administrador informará ao Agente, por e -mail, as constatações que podem ocasionar a impugnação de 
+determinada operação. O Agente poderá regularizar as ocorrências no prazo de até 15 (quinze) dias, contados 
+a partir do recebimento da comunicação. Decorrido o prazo sem que tenha havido resposta por e -mail com a 
+devida regularização das ocorrências, o Administrador procederá à impugnaç ão da operação.  
+A impugnação encerra todas as obrigações do FGO em relação à operação de crédito, que não mais poderá ser 
+honrada. Caso a operação impugnada já tenha sido honrada pelo Fundo, o Agente devolverá ao FGO o valor 
+honrado, atualizado monetariamente. Caso tenham ocorrido recuperações do valor honrado, estas serão 
+devolvidas pelo FGO ao Agente, atualizadas monetariamente. 
+O Administrador informará ao Agente quando ocorrer a impugnação da operação.  
+A obriga ção do Agente informar o saldo devedor cessa quando ocorre a impugna ção da opera ção pelo 
+Administrador. 
+A impugnação reduz os comprometimentos do Fundo e do Agente, abrindo margem para a contratação de novas 
+operações. 
+5.7 EVENTO OPERAÇÃO ENCERRADA PELO ADMINISTRADOR 
+As operações em situação Formalizada, sem que nenhum evento de liberação de crédito tenha sido aceito pelo 
+Administrador, e que estejam com o prazo de vencimento expirado, serão encerradas pelo Administrador.  
+O encerramento finaliza todas as obrigações do FGO em relação à operação de crédito, com consequente perda 
+da garantia do FGO. 
+Após o encerramento da operação pelo Administrador, a garantia não mais poderá ser honrada.  
+O Administrador informará ao Agente as operações que forem encerradas.  
+O encerramento da operação pelo Administrador não reduz os comprometimentos do Fundo e nem do Agente.  
+6 MECANISMOS DE PROTEÇÃO DO FGO 
+Visando a sustentabilidade financeira do FGO, foram definidos os seguintes mecanismos e regras:  
+a) Limite máximo da carteira do FGO Novo Desenrola Brasil : os Agentes Financeiros podem contratar 
+operações de crédito com garantia do FGO até que a soma dos valores comprometidos de todas as 
+operações, exceto nas situações Cancelada pelo Agente  e Impugnada pelo Administrador, de todos os 
+
+ 
+19 
+#Pública 
+Agentes, totalize o limite máximo da carteira do Fundo. Atingido este limite, os Agentes ficam impedidos de 
+contratar novas operações com garantia do FGO. 
+b) Limite máximo da carteira do Agente: a soma dos valores comprometidos em todas as operações do Agente, 
+exceto nas situações Cancelada pelo Agente e Impugnada pelo Administrador, não pode ultrapassar o limite 
+máximo da carteira do Agente. 
+c) O FGO garante no m áximo 100% do valor de capital da operação, respeitados os limites definidos para o 
+programa. 
+d) O máximo admitido para o Índice de Valores Honrados (IVH) por Agente é de 50%. 
+O Agente que ultrapassar estes limites fica automaticamente impedido de solicitar honras de garantias, sem 
+necessidade de aviso prévio. 
+7 SITUAÇÃO DO FUNDO E DO AGENTE 
+Para que o Agente possa acompanhar a sua situação em relação aos limites operacionais do Fundo e do Agente, 
+o Administrador os informará através do arquivo Informativo Diário. 
+8 INTERCÂMBIO DE DADOS 
+O intercâmbio de dados entre o Agente e o Administrador dar -se-á mediante troca dos arquivos digitais 
+denominados Arquivo Remessa, Arquivo Retorno e Arquivo Informativo, obedecendo aos leiautes definidos neste 
+documento. São previstos os seguintes arquivos: 
+REMESSA - Eventos do Agente Financeiro: 
+O Arquivo Remessa deve ser iniciado por 1 registro header seguido de diversos registros detalhe e finalizado 
+por 1 registro trailer. Cada registro detalhe representa um evento ocorrido em uma operação de crédito. Na 
+remessa podem ser informados eventos oco rridos no mesmo dia da geração do Arquivo ou em dias 
+anteriores, respeitados os prazos definidos nas regras de validação de registros. Os registros devem estar 
+dispostos dentro do Arquivo Remessa na mesma ordem em que de fato ocorreram.  
+O Agente pode enviar as Remessas na periodicidade que julgar conveniente, sendo obrigatório o envio de 
+pelo menos uma Remessa por mês e no máximo 1 Remessa por dia.  
+O Administrador receberá a transmissão de arquivos remessa em todos os dias e hor ários (regime 24x7). 
+As remessas transmitidas até as 22:00 horas nos dias úteis, serão validadas e processadas no mesmo dia. 
+As remessas transmitidas após as 22:00 horas ou em dias não úteis, terão sua validação e processamento 
+adiados para o dia útil seguinte. Neste segundo caso, o Agente deve atentar para o risco da remessa adiada 
+conflitar com uma nova remessa que ele venha a transmitir, o que causaria a substitui ção do prim eiro 
+arquivo. 
+O número sequencial da remessa deve ser incrementado todas as vezes que o Agente receber o 1º retorno 
+informando que seu arquivo foi aprovado na validação inicial pelo Administrador. Caso uma remessa tenha 
+sido rejeitada, a próxima remessa gerada pelo Agen te deverá repetir o número sequencial daquela que foi 
+rejeitada.  
+1º RETORNO - Confirmação de Recebimento da Remessa: 
+Em até 1 hora após receber o Arquivo Remessa, o Administrador efetuará uma validação inicial onde serão 
+verificados: o conteúdo do header, a numeração sequencial de todos os registros e o conteúdo do trailer.  
+Os registros-detalhe não serão validados nesta etapa. Em seguida o Administrador enviará ao Agente o 1º 
+Arquivo Retorno informando se a Remessa foi aprovada ou rejeitada na validação inicial e o motivo da 
+rejeição. Em caso de rejeição, o Agente poderá fazer as correçõe s e enviar um novo Arquivo Remessa no 
+mesmo dia. 
+
+ 
+20 
+#Pública 
+A validação inicial da remessa ocorrerá de hora em hora, começando às 07:00 horas e terminando às 22:00 
+horas, somente em dias úteis. 
+2º RETORNO - Validação dos Eventos do Agente: 
+As Remessas recebidas dos diversos Agentes ao longo do dia serão processadas a partir das 23:00 horas.  
+O processamento obedecerá a ordem de chegada das Remessas e a ordem em que os registros -detalhe 
+estiverem dispostos fisicamente dentro do Arquivo.  
+Concluído o processamento, o Administrador enviará o 2º Arquivo Retorno ao Agente informando os 
+registros detalhe aceitos e rejeitados. Cada registro rejeitado receberá um código numérico indicando o 
+motivo da rejeição. 
+O valor a ser movimentado entre o Agente e o FGO, quando houver, resultante da Remessa processada, 
+será informado ao Agente através do Arquivo Informativo Diário. 
+3º RETORNO - Eventos do Administrador: 
+Juntamente ao 2º Arquivo Retorno, o Agente receberá também o 3º Arquivo Retorno contendo os eventos 
+ocorridos no âmbito do Administrador. São eles: Operações Impugnadas, Operações Pendentes, 
+Operações Encerradas pelo Administrador e Liquidação do Saldo Honrado. 
+4º RETORNO - Movimentação Financeira: 
+Após efetivada a movimentação financeira entre o Agente e o FGO, o Agente receberá o 4º Arquivo Retorno 
+contendo o valor nominal e respectiva atualização monetária resultante de cada evento processado da 
+Remessa.  
+ 
+O Administrador disponibilizará o 4º Arquivo no dia em que for efetivada a movimentação financeira.  
+ 
+INFORMATIVO DIÁRIO: 
+O Agente receberá diariamente um arquivo Informativo contendo: a situação patrimonial do Fundo , as 
+remessas pendentes de movimentação financeira e o saldo honrado a recuperar atualizado de suas 
+operações. 
+O Administrador disponibilizará o Informativo Diário por volta das 23:30 horas, em todos os dias úteis, 
+independentemente de ter havido ou não processamento de remessa do Agente.  
+Segue o exemplo de uma possível sequência da troca de arquivos entre o Agente e o Administrador:  
+ Em 20/mai 
+  17:30 - O Agente encaminha um Arquivo Remessa ao Administrador; 
+  18:00 - O Administrador efetua a validação inicial da Remessa; 
+  18:01 - O Administrador envia ao Agente o 1º Arquivo Retorno informando que a Remessa foi 
+aprovada na validação inicial; 
+  23:00 - O Administrador processa os registros detalhe da Remessa, calcula a movimentação 
+financeira, quando houver, e a respectiva atualização monetária resultante de cada registro 
+processado; 
+  23:15 - O Administrador envia ao Agente o 2º Arquivo Retorno informando quais registros foram 
+aprovados e quais foram rejeitados; 
+  23:20 - O Administrador envia ao Agente o 3º Arquivo Retorno informando os eventos ocorridos no 
+âmbito do Administrador; 
+23:30 - O Administrador envia ao Agente o 4º Arquivo Retorno detalhando a movimentação financeira 
+de cada evento processado; 
+  23:30 - O Administrador envia ao Agente o Arquivo Informativo Diário contendo os limites e 
+comprometimentos do final do dia. 
+
+ 
+21 
+#Pública 
+9 TRANSMISSÃO DE ARQUIVOS 
+A transmissão de arquivos Remessa/Retorno entre o Administrador e o Agente pode ser feita em diversas formas 
+disponíveis, tais como, mas não limitadas, a BB SIA e Connect Direct. 
+A forma de transmissão a ser adotada para cada Agente deverá ser definida em conjunto pelas respectivas áreas 
+técnicas, quando da habilitação tecnológica conforme item 4.2. 
+10 SUBSTITUIÇÃO DE ARQUIVO REMESSA 
+O arquivo remessa enviado pelo Agente durante o dia e aprovado na validação inicial pelo Administrador (item 
+8) terá seus registros detalhe processados somente à noite. 
+Até as 22:00 horas do mesmo dia, o Agente poderá enviar novo arquivo remessa em substituição ao anterior. 
+Cada novo arquivo remessa enviado pelo Agente, e aceito pelo Administrador, provoca a exclusão integral do 
+arquivo anterior enviado na mesma data.  
+Por exemplo: caso o agente envie 4 remessas em um mesmo dia, sendo as 4 aceitas na validação inicial, 
+somente a última remessa do dia terá seus registros detalhe tratados no processamento noturno.  
+Outro exemplo: caso o Agente envie 3 remessas em um mesmo dia, sendo as 2 primeiras remessas aceitas na 
+validação inicial e a 3ª remessa recusada, apenas a 2ª remessa enviada terá seus registros detalhe tratados no 
+processamento noturno. 
+Caso o Agente deseje apenas excluir um arquivo remessa enviado erroneamente, sem necessariamente 
+substituí-lo por outro, deverá enviar uma remessa vazia no mesmo dia contendo apenas o header e o trailer, sem 
+registros detalhe. A remessa vazia será aceita na validação inicial e provocará a exclusão da remessa anterior. 
+Não é possível substituir arquivos remessa validados em dias anteriores. 
+O número sequencial da remessa deve ser incrementado todas as vezes que o Agente receber o 1º retorno 
+informando que seu arquivo foi aprovado na validação inicial pelo Administrador. Caso uma remessa tenha sido 
+rejeitada, a próxima remessa gerada pelo Agente deverá repetir o número sequencial daquela que foi rejeitada. 
+
+ 
+22 
+#Pública 
+11  MOVIMENTAÇÃO FINANCEIRA 
+Alguns dos eventos ocorridos nas operações de crédito e informados pelo Agente através dos Arquivos Remessa geram a movimenta ção de recursos entre o Agente e o 
+FGO. Por exemplo: o evento de solicitação de honra da garantia gera a movimentação do valor honrado a favor do Agente. Os tipos de movimentações financeiras para cada 
+evento estão relacionados em tabela específica neste documento. 
+11.1 VALORES A MOVIMENTAR 
+Ao final do processamento dos eventos, o Administrador calculará o valor total da Remessa somando os débitos e créditos resul tantes de cada registro processado. O valor 
+total a movimentar na Remessa, que poderá ser a favor do Agente ou a favor do FGO, será  comunicado ao Agente através do Arquivo Informativo Diário. 
+Mesmo que o Agente discorde do valor, ainda assim deverá efetivar a transferência pelo valor informado e apresentar questiona mento posteriormente. O Administrador 
+rejeitará as transferências com valor diferente daquele informado no Informativo Diário. Enqu anto a transferência dos recursos não for efetivada , o Administrador continuará 
+informando diariamente um novo valor atualizado a ser transferido para cada remessa pendente, através do Arquivo Informativo Diário.  
+As transferências deverão ser efetivadas obedecendo a ordem de processamento das Remessas. O Agente e o Administrador s ó podem efetuar a transfer ência para uma 
+determinada Remessa quando a transfer ência da Remessa anterior estiver efetivada. O Administrador rejeitar á a transfer ência efetuada pelo Agente caso exista outra 
+Remessa mais antiga pendente de transferência.  
+O Agente terá um prazo de até 5 (cinco) dias úteis para efetivar a transferência dos recursos, contados a partir da primeira notificação de pendência da remessa, feita através 
+do Informativo Diário. O Agente que não cumprir este prazo ficará impedido de enviar novos Arquivos Remessa enquanto a pendência não for regularizada. 
+O Administrador efetivará a transferência dos recursos para o Agente entre o 15º (décimo quinto) e o 19º (décimo nono) dia útil do mês, com base nos valores do arquivo  
+Informativo Diário recebido no dia imediatamente anterior ao da transferência. 
+Eventuais questionamentos referentes aos valores mencionados nos parágrafos anteriores dever ão ser feitos por meio de mensagem eletr ônica e/ou ofício encaminhados 
+ao Administrador em até 5 (cinco) dias úteis após a transferência dos recursos. 
+ 
+
+ 
+23 
+#Pública 
+11.2 MOVIMENTAÇÃO FINANCEIRA VIA STR 
+Para os agentes financeiros participantes do SPB/STR, as transferências a favor do FGO serão efetivadas exclusivamente através de mensagem STR0004 do SPB, conforme 
+abaixo: 
+STR0004 - IF requisita transferência para IF 
+Tag Campo Conteúdo 
+<CodMsg>  Código Mensagem  “STR0004” 
+<NumCtrlIF>  Número Controle IF  Nas mensagens geradas pelo Agente este campo é de livre 
+preenchimento; 
+Nas mensagens geradas pelo Administrador terá o formato 
+“NR_ITCB:999999999” onde “NR_ITCB:” é um literal fixo e 
+“999999999” é um número gerado pelo Administrador 
+<ISPBIFDebtd>  ISPB IF Debitada  Nas mensagens geradas pelo Agente preencher com o 
+código ISPB do Agente; 
+Nas mensagens geradas pelo Administrador será “00000000”  
+<ISPBIFCredtd>  ISPB IF Creditada  Nas mensagens geradas pelo Agente preencher com 
+“00000000”; 
+Nas mensagens geradas pelo Administrador será o código 
+ISPB do Agente 
+<AgCredtd>  Agência Creditada  Espaços  
+<FinlddIF>  Finalidade IF  “95” 
+<CodIdentdTransf>  Código Identificador Transferência  Vide abaixo  
+<VlrLanc>  Valor Lançamento  Valor transferido  
+<Hist>  Histórico  “MOVIMENTACAO DE RECURSOS ENTRE O AGENTE 
+FINANCEIRO E O FUNDO GARANTIDOR” 
+<DtAgendt>  Data Agendamento Espaços 
+<HrAgendt>  Hora Agendamento Espaços 
+<NivelPref>  Nível Preferência  Espaços  
+<DtMovto>  Data Movimento  Data da transferência 
+ 
+Formato do campo Código Identificador Transferência: “FFFAAARRRR” 
+ 
+Exemplo: “0020030067“ 
+ 
+Onde: FFF : código do fundo garantidor, atribuído pelo Administrador (010 = FGO Novo Desenrola Brasil); 
+ AAA : código do Agente Financeiro, atribuído pelo Administrador (exemplo: 003 = CEF); 
+ RRRR : número sequencial da remessa à qual se refere o valor transferido (exemplo: 0067). 
+ 
+ 
+ 
+
+ 
+24 
+#Pública 
+Para os agentes financeiros participantes do SPB/STR, as transfer ências a favor do Agente  serão efetivadas exclusivamente atrav és de mensagem STR0004 do SPB, 
+conforme abaixo: 
+ 
+STR0004 - IF requisita transferência para IF 
+Tag Campo Conteúdo 
+<CodMsg>  Código Mensagem  “STR0004” 
+<NumCtrlIF>  Número Controle IF  Nas mensagens geradas pelo Agente este campo é de livre 
+preenchimento; 
+Nas mensagens geradas pelo Administrador terá o formato 
+“NR_ITCB:999999999” onde “NR_ITCB:” é um literal fixo e 
+“999999999” é um número gerado pelo Administrador 
+<ISPBIFDebtd>  ISPB IF Debitada  Nas mensagens geradas pelo Agente preencher com o 
+código ISPB do Agente; 
+Nas mensagens geradas pelo Administrador será “00000000”  
+<ISPBIFCredtd>  ISPB IF Creditada  Nas mensagens geradas pelo Agente preencher com 
+“00000000”; 
+Nas mensagens geradas pelo Administrador será o código 
+ISPB do Agente 
+<AgCredtd>  Agência Creditada  Espaços  
+<FinlddIF>  Finalidade IF  “95” 
+<VlrLanc>  Valor Lançamento  Valor transferido  
+<Hist>  Histórico  Vide abaixo  
+<DtAgendt>  Data Agendamento Espaços 
+<HrAgendt>  Hora Agendamento Espaços 
+<NivelPref>  Nível Preferência  Espaços  
+<DtMovto>  Data Movimento  Data da transferência 
+ 
+Formato do campo Histórico: “FFFAAARRRR” 
+ 
+Exemplo: “0020030067“ 
+ 
+Onde: FFF : código do fundo garantidor, atribuído pelo Administrador (010 = FGO Novo Desenrola Brasil); 
+ AAA : código do Agente Financeiro, atribuído pelo Administrador (exemplo: 003 = CEF); 
+ RRRR : número sequencial da remessa à qual se refere o valor transferido (exemplo: 0067). 
+ 
+ 
+ 
+ 
+
+ 
+25 
+#Pública 
+As mensagens STR recebidas pelo Administrador e que não estiverem em conformidade com as regras definidas neste Manual serão devolvidas ao Agente através da 
+mensagem STR0010. O motivo da devolução será informado no campo “histórico” da mensagem, conforme a baixo: 
+STR0010 - IF requisita transferência para devolução de transferência indevida  
+Tag Campo Conteúdo 
+<CodMsg> Código Mensagem  “STR0010” 
+<NumCtrlIF> Número Controle IF O mesmo número controle IF da STR0004 ora devolvida 
+<ISPBIFDebtd> ISPB IF Debitada  “00000000” 
+<ISPBIFCredtd> ISPB IF Creditada Código ISPB do Agente no STR 
+<VlrLanc> Valor Lançamento O mesmo valor da STR0004 ora devolvida 
+<CodDevTransf> Código Devolução Transferência “08” 
+<NumCtrlSTROr> Número Controle STR Original O <NumCtrlSTR> da mensagem STR0004 ora devolvida 
+<Hist> Histórico Vide abaixo 
+<DtAgendt> Data Agendamento Espaços 
+<HrAgendt> Hora Agendamento Espaços 
+<NivelPref > Nível Preferência Espaços 
+<DtMovto> Data Movimento Data da devolução da STR 
+ 
+Históricos indicando o motivo da devolução: 
+ 
+a) "MOTIVO_DEVOLUCAO:NAO FOI LOCALIZADO ARQUIVO REMESSA COM OS CODIGOS DE FUNDO, AGENTE E SEQUENCIAL DE REMESSA INFORMADOS;" 
+b) "MOTIVO_DEVOLUCAO:EXISTE REMESSA MAIS ANTIGA AGUARDANDO TRANSFERENCIA DE RECURSOS" 
+c) "MOTIVO_DEVOLUCAO:O ESTADO ATUAL DO ARQUIVO REMESSA NAO PERMITE TRANSFERENCIA DE RECURSOS;" 
+d) "MOTIVO_DEVOLUCAO:O VALOR TRANSFERIDO NAO CONFERE COM O ESPERADO;" 
+e) "MOTIVO_DEVOLUCAO:RECURSO DEVOLVIDO INDEVIDAMENTE PELO AGENTE;" 
+f) "MOTIVO DEVOLUCAO:A DATA DA MENSAGEM STR NÃO CORRESPONDE AA DATA DE ATUALIZACAO MONETARIA DA REMESSA". 
+11.3 MOVIMENTAÇÃO FINANCEIRA VIA CRÉDITO/DÉBITO EM CONTA 
+Para os Agentes não participantes do SPB/STR, as movimentações financeiras serão efetivadas através de crédito e débito em co nta movimento mantida pelo Agente no 
+Banco do Brasil. 
+A conta deverá ser de titularidade do Agente constante do Termo de Adesão ao Programa de Garantia FGO Novo Desenrola Brasil formalizado. 
+Os dados de agência e conta corrente deverão ser informados ao Administrador por meio de mensagem eletrônica a ser encaminhad a para fgo@bb.com.br, quando da 
+habilitação. 
+Para enviar recursos ao FGO Novo Desenrola Brasil, o Agente deverá manter saldo suficiente em conta para suportar o débito do valor total das movimentações a serem 
+processadas. A remessa será atualizada monetariamente às 23h05 e o débito na conta do Agente acontecerá no dia seguinte, às 07h00.  
+O recebimento de recursos do FGO Novo Desenrola Brasil ocorrerá por meio de crédito simples na conta do Agente, sem identificação.  
+
+ 
+26 
+#Pública 
+11.4 ARQUIVO RETORNO DA MOVIMENTAÇÃO FINANCEIRA 
+Após a efetivação da transferência de recursos , por volta das 23:30 horas do dia da transferência, o Agente receberá o 4º Arquivo Retorno detalhando a movimentação 
+financeira de cada evento processado.  
+Com base neste Arquivo Retorno analítico, o Agente poderá conferir os valores e, se for o caso, contestá -los junto ao Administrador. Se comprovado erro nos valores 
+calculados pelo Administrador, a diferença será ressarcida pelo FGO ao Agente, ou vice -versa, atualizada monetariamente com base na TMS. 
+  
+
+ 
+27 
+#Pública 
+12 REGRAS DE VALIDAÇÃO DOS REGISTROS 
+Em complemento às regras previstas nos demais normativos do FGO, os registros no Arquivo Remessa gerado pelo Agente, serão va lidados sob as seguintes regras: 
+TIPO DE REGISTRO REGRAS 
+01 
+HEADER 
+• Deve ser o primeiro registro em todos os arquivos Remessa. 
+• Nº sequencial da Remessa deve corresponder ao nº da última Remessa válida + 1. 
+• Quando uma Remessa é rejeitada, o controle do nº sequencial não é incrementado. 
+03 
+FORMALIZAÇÃO DE OPERAÇÃO 
+• Prazo para entrega do registro: até o 15º dia corrido desde a data da formalização do instrumento de crédito original, e durante a vigência 
+da reserva. 
+• O CPF do mutuário deve estar válido na Receita Federal do Brasil. 
+• O código identificador da operação de crédito deve ser único no escopo do Agente. O primeiro caractere deve ser uma letra ou número. Os 
+demais caracteres podem ser preenchidos a critério do Agente utilizando números, letras, sinais separadores e espaços. 
+• O código IBGE do município do endereço residencial do mutuário contratante da operação deve ser informado sem dígito verifica dor. 
+Exemplo: Brasília = ”0530010”. 
+• Público-alvo: pessoa física com renda mensal igual ou inferior a 5 salários-mínimos (R$ 8.105,00). 
+• Limite por mutuário: uma operação por Agente Financeiro, com valor igual ou inferior a R$ 15.000,00 (quinze mil reais). 
+• A soma dos valores comprometidos em todas as operações do FGO Novo Desenrola Brasil, em todas os estados exceto Cancelada pelo 
+Agente e Impugnada pelo Administrador, incluindo a nova operação, deve ser menor que o limite máximo da carteira do FGO Novo Desenrola 
+Brasil. 
+• A soma dos valores comprometidos em todas as operações do Agente, exceto na situação Cancelada pelo Agente e Impugnada pelo 
+Administrador, não pode ultrapassar o valor máximo da carteira do Agente. 
+• Somente poderão ser garantidas pelo FGO as operações de crédito contratadas no âmbito do Programa Novo Desenrola Brasil, nos termos 
+e condições definidos na Medida Provisória nº 1.355, de 04 de maio de 2026, Portaria Normativa MF n.º 1.243, de 05 de maio de 2026. 
+• Data de formalização deve ser:  
+- maior ou igual à data de habilitação do Agente para operar com o FGO Novo Desenrola Brasil; e 
+- menor ou igual à data de entrega da Remessa; e 
+- igual ou maior que 05.05.2026. 
+• Data de vencimento: deve ser maior que a data de formalização. 
+• O prazo contado desde a data da formalização até o vencimento final deve ser igual ou inferior a 1.461 dias (48 meses). 
+• O número da pré-validação deve ser informado, obrigatoriamente. 
+• Número do CPF Qualificador da Operação não deve ser informado; o campo deve permanecer com espaços. 
+04 
+LIBERAÇÃO DE CRÉDITO 
+• Prazo para entrega do registro: até o 20º dia corrido após a data da liberação de crédito. 
+• Permitido somente para operação nas situações: FORMALIZADA, NORMALIDADE ou ATRASADA. 
+• Data da liberação deve ser: 
+- maior ou igual à data de formalização da operação; e 
+
+ 
+28 
+#Pública 
+TIPO DE REGISTRO REGRAS 
+- menor ou igual à data de entrega da Remessa; e 
+- maior ou igual à data da última liberação informada; e 
+- menor do que a data de vencimento da operação. 
+• O valor da liberação deve ser maior que zero. 
+05 
+INFORMAÇÃO DE SALDO 
+• Prazo para entrega do registro: até o 9º (nono) dia útil de cada mês. Após este prazo, somente para corrigir operação pendente de saldo. 
+• Deve ser informado para todas as operações a partir da primeira liberação de crédito, enquanto a operação estiver em NORMALID ADE ou 
+ATRASADA. 
+• Serão rejeitadas as informações de saldo de operações que não tiverem o envio e aceite da informação de saldo no mês anterior, ou que 
+apresentarem lacuna entre a última informação de saldo aceita e a que está sendo enviada. 
+• Deve ser informado uma vez por mês, contendo o saldo apurado no último dia corrido do mês anterior. 
+• Data de apuração dos saldos deve ser:  
+- o último dia corrido do mês mais recente; e 
+- menor ou igual à data de entrega da Remessa. 
+• Para operações em NORMALIDADE (ou seja, quando não houver saldo de capital em atraso): 
+- o valor de capital em atraso deve ser informado zero (e não em branco); 
+- o campo data do início de inadimplência deve ser preenchido com zeros (8 posições). 
+• Para operações com saldo de capital em atraso, é obrigatório o preenchimento do campo com a data exata do início de inadimplência. 
+• Data de início de inadimplência de capital deve ser:  
+- maior ou igual à última data informada; ou 
+- menor à última data informada, contanto que seja dentro do mesmo mês; e 
+- menor ou igual à data de entrega da Remessa. 
+• A soma dos saldos de capital em normalidade e capital em atraso não pode ser maior que o valor liberado e nem maior que o valor da 
+operação. 
+• Campo para informar o índice de perda esperada do risco de crédito, na forma da Resolução CMN 4.966, de 25.11.2021: 
+- preenchimento obrigatório para as informações de saldo relativas a 31.01.2025 e posteriores; 
+- o índice pode variar de 0 a 1, com 6 casas decimais, e deve ser preenchido sem ponto ou vírgula. Ex.: "0000051" para a perda esperada 
+de 0,000051; "0000000" para a perda esperada de 0 (zero). 
+• Caso o Agente não informe o saldo devedor até o 9º dia útil do mês, ou a informação do saldo seja rejeitada pelo Administrador, a operação 
+será considerada pendente da informação de saldo.  
+• Quando ocorrer amortização integral, não é necessário o envio de INFORMAÇÃO DE SALDO com saldo zero, devendo ser enviado o evento 
+de LIQUIDAÇÃO DE OPERAÇÃO. 
+• Caso o Agente informe saldo zero para a operação e não informe a liquidação da operação, esta será considerada pendente de liquidação. 
+• Caso o Agente informe existência de saldo em normalidade para operação com data de vencimento já expirada, esta será consider ada 
+pendente.  
+99 
+TRAILER 
+• Deve ser o último registro em todos os arquivos Remessa; 
+• A quantidade de registros informada deve corresponder à quantidade de registros existentes na Remessa, incluindo o header e trailer. 
+
+ 
+29 
+#Pública 
+13 LEIAUTE DOS ARQUIVOS REMESSA E RETORNO 
+• Os arquivos Remessas, Retornos e Informativo Diário são arquivos sequenciais no formato de texto ASCII compostos por registro s de largura fixa, sem separadores 
+entre registros. 
+• Os registros são compostos por campos de largura fixa, sem separadores entre campos . 
+• Campos do tipo A (alfanuméricos) são alinhados à esquerda e os vazios à direita preenchidos com espaços. O primeiro caractere  deve ser uma letra ou número. Os 
+demais caracteres podem ser letras, números ou sinais separadores como ponto, vírgula, hífen, bar ra, espaço etc. Todas as letras devem ser maiúsculas. 
+• Campos tipo N (numéricos) são alinhados à direita e os vazios à esquerda preenchidos com zeros. Todos os caracteres devem ser  numéricos. Não são permitidas letras 
+nem sinais separadores como ponto, vírgula, hífen, barra, espaço etc. 
+• Campos tipo M (moeda) representam valores com 2 casas decimais. São alinhados à direita e os vazios à esquerda preenchidos co m zeros. Todos os caracteres devem 
+ser numéricos. Não são permitidas letras nem sinais separadores como ponto, vírgula, hífen, barr a, espaço etc. 
+• Campos tipo D (data) obedecem ao formato AAAAMMDD. Todos os caracteres devem ser numéricos. Não são permitidas letras nem sin ais separadores como ponto, 
+vírgula, hífen, barra, espaço etc. 
+• Campo tipo H (hora) obedecem ao formato HHMMSS. Todos os caracteres devem ser numéricos. Não são permitidas letras nem sinais  separadores como ponto, 
+vírgula, hífen, barra, espaço etc. 
+• Todos os arquivos devem iniciar obrigatoriamente com 1 registro header e finalizar com 1 registro trailer, podendo conter de 0 a 9.999.997 registros detalhe 
+• Cada registro detalhe representa um evento ocorrido em uma operação de crédito . 
+• Para cada tipo de evento da operação de crédito existe um tipo de registro detalhe específico.  
+ 
+
+ 
+30 
+#Pública 
+13.1 REMESSA - EVENTOS DO AGENTE FINANCEIRO - GFG0010 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Remessa “GFGF0010” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 35 4 N Nº sequencial da Remessa gerada pelo Agente. Começa em “0001” 
+36 211 176 A Espaços 
+03 - DETALHE (FORMALIZAÇÃO DE OPERAÇÃO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “03” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 33 4 N Nº da agência contratante da operação de crédito (sem dígito verificador) 
+34 40 7 N Código IBGE do município do endereço residencial do mutuário contratante da operação (sem dígito verificador). 
+41 41 1 N Código do tipo de pessoa do mutuário. Informe “1”. 
+42 55 14 N CPF do mutuário 
+56 57 2 N Código do público-alvo onde o mutuário se enquadra. Informe “07”. 
+58 74 17 M Valor da renda mensal do mutuário. 
+75 91 17 M Valor da operação: informe o valor sem os custos adicionais, como encargos, taxas, tarifas, impostos, tributos, prêmios de seguro, acessórios e 
+outras despesas inerentes à contratação do crédito. 
+92 96 5 N Percentual da garantia FGO com duas casas decimais. Informe "10000" 100%. 
+97 97 1 N Código da modalidade de crédito. Informe “1". 
+98 98 1 N Código da finalidade do crédito. Informe “3”. 
+99 101 3 N Código da fonte de recursos. Informe "011". 
+102 105 4 N Código do programa de crédito. Para FGO Novo Desenrola Brasil informe “0050”. 
+106 113 8 D Data da formalização da operação 
+114 121 8 D Data de vencimento da operação 
+
+ 
+31 
+#Pública 
+122 122 1 N Código do tipo de cronograma de amortizações. Informe “1". 
+123 124 2 N Código de condição especial da operação. Informe "01" - Sem condição especial. 
+125 132 8 D Data do despacho externo. Informe “00000000” 
+133 133 1 N Código do tipo de formalização. Informe "1" Ordinária. 
+134 142 9 N Número da pré-validação do evento. Preenchimento obrigatório para FGO Novo Desenrola Brasil. 
+143 159 17 M Valor da subvenção, em reais. Informe zeros.  
+160 170 11 N Número do CPF Qualificador da Operação. Preencher com espaços. 
+171 211 41 A Espaços 
+04 - DETALHE (LIBERAÇÃO DE CRÉDITO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO  
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “04” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente. 
+30 37 8 D Data da liberação de crédito. 
+38 54 17 M Valor da liberação de crédito. 
+55 211 157 A Espaços 
+05 - DETALHE (INFORMAÇÃO DE SALDO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “05” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 37 8 D Data de apuração dos saldos 
+38 54 17 M Valor do saldo devedor de capital (principal) em normalidade 
+55 71 17 M Valor do saldo devedor de capital (principal) em atraso 
+72 88 17 M Valor do saldo devedor de encargos (juros, correção monetária, acessórios, e todos os demais componentes do saldo) em normalidade. 
+89 105 17 M Valor do saldo devedor de encargos (juros, correção monetária, acessórios, e todos os demais componentes do saldo) em atraso. 
+106 107 2 A Deixar espaços (não preencher com zeros). 
+108 115 8 D Data de início da inadimplência de capital da operação. Preencher para todas as operações com saldo de capital em atraso. Caso não exista 
+saldo de capital em atraso, preencher com zeros (“00000000”). 
+116 122 7 N Índice de perda esperada do risco de crédito da operação, na data dos saldos informados, com 6 casas decimais, variando de 0 a 1, conforme 
+Resolução CMN 4.966, de 25.11.2021. Preencher sem ponto ou vírgula. Ex.: "0000051" para a perda esperada de 0,000051. 
+Preenchimento obrigatório para as informações de saldo relativas a 31.01.2025 e posteriores. 
+123 211 89 A Espaços 
+
+ 
+32 
+#Pública 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 N Quantidade de registros no arquivo (inclusive header e trailer) 
+17 211 195 A Espaços 
+
+ 
+33 
+#Pública 
+13.2 1º RETORNO - CONFIRMAÇÃO DE RECEBIMENTO DA REMESSA - GFGF010R 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Retorno “GFGF010R” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 35 4 N Nº sequencial da Remessa à qual se refere este Retorno 
+36 43 8 D Data de entrega da Remessa 
+44 49 6 H Hora de entrega da Remessa 
+50 53 4 N Nº sequencial da Remessa substituída (0000 indica que não houve substituição de Remessa) 
+54 55 2 A Espaços 
+56 69 14 N CNPJ do Agente Financeiro 
+70 208 139 A Espaços 
+209 211 3 N Código de rejeição da Remessa 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000002” 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 N Quantidade de registros no arquivo (inclusive header e trailer) “0000002” 
+17 211 195 A Espaços 
+
+ 
+34 
+#Pública 
+13.3 2º RETORNO - VALIDAÇÃO DOS EVENTOS DO AGENTE - GFGF200R 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Retorno “GFGF200R” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 35 4 N Nº sequencial da Remessa à qual se refere este Retorno 
+36 43 8 D Data de processamento dos eventos da Remessa 
+44 55 12 A Espaços 
+56 69 14 N CNPJ do Agente Financeiro 
+70 211 142 A Espaços 
+03 - DETALHE (FORMALIZAÇÃO DE OPERAÇÃO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 170 170 - Repete os dados informados pelo Agente no Arquivo Remessa 
+171 187 17 A Espaços 
+188 190 3 N Ignorar (zeros). 
+191 191 1 N Retorna 0 (zero). 
+192 208 17 M Retorna zeros. 
+209 211 3 N Código de rejeição do registro 
+04 - DETALHE (LIBERAÇÃO DE CRÉDITO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 54 54 - Repete os dados informados pelo Agente no Arquivo Remessa 
+55 208 154 A Espaços 
+209 211 3 N Código de rejeição do registro 
+
+ 
+35 
+#Pública 
+05 - DETALHE (INFORMAÇÃO DE SALDO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 122 122 - Repete os dados informados pelo Agente no Arquivo Remessa 
+123 208 86 A Espaços 
+209 211 3 N Código de rejeição do registro 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 A Quantidade de registros no arquivo (inclusive header a trailer) 
+17 211 195 A Espaços 
+
+ 
+36 
+#Pública 
+13.4 3º RETORNO - EVENTOS DO ADMINISTRADOR - GFGF290R 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Retorno “GFGF290R” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 35 4 N Nº sequencial da Remessa à qual se refere este Retorno 
+36 43 8 D Data de processamento dos eventos da Remessa 
+44 55 12 A Espaços 
+56 69 14 N CNPJ do Agente Financeiro 
+70 211 142 A Espaços 
+92 - DETALHE (OPERAÇÃO PENDENTE) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “92” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 31 2 N Código do tipo da pendência 
+32 39 8 D Data da última informação de saldo devedor recebida pelo Administrador 
+40 47 8 D Data de vencimento da operação no cadastro do Administrador 
+48 49 2 N Código da situação da operação no cadastro do Administrador 
+50 57 8 D Data de início da pendência 
+58 211 154 A Espaços 
+93 - DETALHE (OPERAÇÃO ENCERRADA PELO ADMINISTRADOR) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+
+ 
+37 
+#Pública 
+8 9 2 N Código do tipo do registro “93” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 31 2 N Código do motivo de encerramento da operação 
+32 39 8 D Data de encerramento da operação 
+40 211 172 A Espaços 
+94 - DETALHE (OPERAÇÃO IMPUGNADA PELO ADMINISTRADOR) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “94” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 31 2 N Código do motivo de impugnação da operação 
+32 39 8 D Data de impugnação da operação 
+40 211 172 A Espaços 
+     
+     
+                  95 - DETALHE (LIQUIDAÇÃO DO SALDO HONRADO) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “95” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 37 8 D Data de liquidação do saldo honrado 
+38 211 174 A Espaços 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 A Quantidade de registros no arquivo (inclusive header a trailer) 
+17 211 195 A Espaços 
+ 
+
+ 
+38 
+#Pública 
+13.5 4º RETORNO - MOVIMENTAÇÃO FINANCEIRA - GFGF450R 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Retorno “GFGF450R” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N  Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 35 4 N Nº sequencial da Remessa à qual se refere este Retorno 
+36 55 20 A Espaços 
+56 69 14 N CNPJ do Agente Financeiro 
+70 211 142 A Espaços 
+97 - DETALHE (MOVIMENTAÇÃO FINANCEIRA) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “97” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 31 2 N Código do tipo de movimentação 
+32 39 8 D Data da movimentação financeira. Para movimentações de natureza 03 – Sem movimentação financeira, como no caso de abatimentos, este 
+campo retornará “0” (zero). 
+40 47 8 D Data do fato gerador da movimentação 
+48 64 17 M Valor nominal na data do fato gerador 
+65 81 17 M Valor da atualização monetária, desde a data do fato gerador até a data da movimentação financeira 
+82 98 17 M Valor do ISSQN 
+99 115 17 M Valor líquido movimentado 
+116 122 7 N Nº sequencial do registro causador da movimentação 
+123 211 89 A Espaços 
+
+ 
+39 
+#Pública 
+ 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 A Quantidade de registros no arquivo (inclusive header a trailer) 
+17 211 195 A Espaços 
+ 
+  
+
+ 
+40 
+#Pública 
+13.6 INFORMATIVO DIÁRIO - GFGF270R 
+01 - HEADER 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro “0000001” 
+8 9 2 N Código do tipo do registro “01” 
+10 17 8 A Nome do Arquivo Retorno “GFGF270R” 
+18 25 8 D Versão do leiaute “20170331” 
+26 28 3 N Código do Agente Financeiro, atribuído pelo Administrador. 
+29 31 3 N Código do Fundo Garantidor “010” 
+32 55 24 A Espaços 
+56 69 14 N CNPJ do Agente Financeiro 
+70 211 142 A Espaços 
+91 - REMESSA PENDENTE DE MOVIMENTAÇÃO FINANCEIRA 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “91” 
+10 13 4 N Nº sequencial da Remessa à qual se refere a pendência 
+14 30 17 M Valor a ser movimentado 
+31 31 1 N Código da natureza da movimentação financeira 
+32 39 8 D Data de validade do valor a ser movimentado 
+40 56 17 M Valor a ser retido para recolhimento do ISSQN 
+57 211 155 A Espaços 
+96 - DETALHE (SITUAÇÃO PATRIMONIAL) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “96” 
+10 26 17 M Base de cálculo para o limite máximo da carteira do Fundo Garantidor 
+27 43 17 M Zeros 
+44 60 17 M Limite máximo da carteira do Fundo Garantidor (valores financiados) 
+61 77 17 M Limite máximo da carteira do Agente (valores financiados) 
+
+ 
+41 
+#Pública 
+78 94 17 M Valor já comprometido da carteira do Fundo Garantidor 
+95 111 17 M Valor já comprometido da carteira do Agente 
+112 116 5 N Zeros 
+117 125 8 D Data da situação patrimonial 
+126 211 87 A Espaços 
+98 - DETALHE (SALDO HONRADO A RECUPERAR) 
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “98” 
+10 29 20 A Código identificador da operação de crédito no âmbito do Agente 
+30 37 8 D Data de validade do saldo para cobrança ao mutuário 
+38 54 17 M Valor do saldo honrado a recuperar atualizado 
+55 211 157 A Espaços 
+99 - TRAILER  
+INÍCIO FIM TAMANHO TIPO DESCRIÇÃO 
+1 7 7 N Nº sequencial do registro 
+8 9 2 N Código do tipo do registro “99” 
+10 16 7 A Quantidade de registros no arquivo (inclusive header a trailer) 
+17 211 195 A Espaços 
+
+ 
+42 
+#Pública 
+14 TABELAS 
+14.1 CÓDIGOS DE REJEIÇÃO DA REMESSA OU PRÉ-VALIDAÇÃO 
+Código Motivo da rejeição 
+000 Remessa válida 
+001 Dado inválido no campo VERSÃO DO LEIAUTE 
+002 Arquivo vazio 
+003 Dado inválido no campo NÚMERO DO AGENTE FINANCEIRO 
+004 Dado inválido no campo CÓDIGO DO FUNDO GARANTIDOR 
+005 Dado inválido no campo NÚMERO SEQUENCIAL DA REMESSA 
+006 Dado inválido no campo NÚMERO SEQUENCIAL DO REGISTRO 
+007 Dado inválido no campo QUANTIDADE DE REGISTROS NO ARQUIVO 
+008 Versão de leiaute não permitida 
+009 Nome de arquivo remessa não permitido 
+010 Agente Financeiro não habilitado a operar com o Fundo 
+011 Agente Financeiro com pendência de movimentação financeira 
+012 Fundo Garantidor não habilitado a operar 
+013 Fundo Garantidor não cadastrado 
+014 Numeração da remessa fora de sequência 
+015 Numeração dos registros fora de sequência 
+016 Remessa com mais de um header 
+017 Primeiro registro não é header 
+018 Remessa sem registro trailer 
+019 Há registros após o trailer 
+020 Quantidade de registros da remessa difere da quantidade informada no trailer 
+021 Remessa entregue em data ou horário não permitido 
+023 Agente Financeiro não cadastrado 
+999 Remessa rejeitada por outro motivo (consulte o Administrador do Fundo) 
+ 
+14.2 CÓDIGOS DE REJEIÇÃO DOS REGISTROS DA REMESSA OU PRÉ-VALIDAÇÃO 
+Código Motivo da rejeição 
+0 Dados válidos                                                                              
+1 TIPO DO REGISTRO inválido                                                    
+2 Dado inválido no campo IDENTIFICADOR DA OPERAÇÃO                                           
+3 Dado inválido no campo NÚMERO DA AGÊNCIA                                                   
+4 A data de formalização não pode ser futura                                                 
+5 Dado inválido no campo CPF/CNPJ DO MUTUÁRIO                                                
+6 Dado inválido no campo FINALIDADE DO CRÉDITO                                               
+7 Dado inválido no campo MODALIDADE DO CRÉDITO                                               
+8 Dado inválido no campo DATA DA FORMALIZAÇÃO                                                
+9 Dado inválido no campo DATA PREVISTA DA PRIMEIRA LIBERAÇÃO                                 
+10 Dado inválido no campo VALOR PREVISTO DA PRIMEIRA LIBERAÇÃO                                
+11 Dado inválido no campo TIPO DE PESSOA DO MUTUÁRIO                                          
+12 Dado inválido no campo DATA DE VENCIMENTO DA OPERAÇÃO                                      
+13 Dado inválido no campo VALOR DA OPERAÇÃO                                                   
+14 Dado inválido no campo PERCENTUAL DE GARANTIA                                              
+
+ 
+43 
+#Pública 
+15 Dado inválido no campo NOVO IDENTIFICADOR DA OPERAÇÃO                                      
+16 Faturamento superior ao máximo permitido                                                   
+17 Dado inválido no campo SALDO DEVEDOR                                                       
+18 A data do cancelamento não pode ser anterior a outro evento já informado                   
+19 O saldo de capital não pode ser maior que o total liberado na operação 
+20 Saldo de capital maior que o valor da operação deduzido o valor da subvenção 
+21 Dado inválido no campo VALOR FINANCIADO ADICIONAL                                          
+22 Dado inválido no campo DATA DO SALDO                                                       
+23 Dado inválido no campo SALDO DE CAPITAL EM NORMALIDADE                                     
+24 Dado inválido no campo SALDO DE CAPITAL EM ATRASO                                          
+25 Dado inválido no campo NÍVEL DE RISCO DA OPERAÇÃO                                          
+26 Dado inválido no campo DATA DA LIQUIDAÇÃO DA OPERAÇÃO                                      
+27 Dado inválido no campo DATA DE INÍCIO DA INADIMPLÊNCIA                                     
+28 Dado inválido no campo DATA DA SOLICITAÇÃO DE HONRA                                        
+29 Dado inválido no campo DATA DA RECUPERAÇÃO                                                 
+30 Dado inválido no campo VALOR RECUPERADO                                                    
+31 As datas informadas estão fora de uma ordem lógica entre si                                
+32 Informou data futura em campo que exige data passada                                       
+33 Informou data passada em campo que exige data futura                                       
+34 Operação já cadastrada                                                                     
+35 Evento informado após o prazo limite                                                       
+36 Procedimento não permitido para mutuário com operação honrada pelo Fundo Garantidor        
+37 Excedeu o valor máximo que pode ser garantido ao mutuário                                  
+38 Excedeu o valor máximo que pode ser garantido ao Agente Financeiro                         
+39 O Fundo Garantidor atingiu o limite máximo de valores garantidos                          
+40 Dados informados resultam em CCG igual a zero                                              
+41 Operação não cadastrada                                                                    
+42 Nenhuma alteração em relação aos dados já cadastrados                                      
+44 O Agente Financeiro excedeu o índice máximo de valores honrados                          
+45 Já foi informado saldo com data mais recente que esta                                      
+46 Informou saldo em normalidade para operação vencida                                        
+48 A data de início da inadimplência não pode ser anterior à data de formalização             
+50 Não foi localizada a recuperação de valor honrado com os dados informados                  
+51 Procedimento não permitido para operação na situação NORMALIDADE                           
+52 Procedimento não permitido para operação na situação ATRASADA                              
+53 Procedimento não permitido para operação na situação CANCELADA PELO AGENTE COM DEVOL CCG   
+54 Procedimento não permitido para operação na situação ENCERRADA PELO ADMINISTRADOR          
+55 Procedimento não permitido para operação na situação HONRADA                               
+56 Procedimento não permitido para operação na situação LIQUIDADA APÓS A HONRA DA GARANTIA    
+57 Procedimento não permitido para operação na situação LIQUIDADA SEM HONRA DA GARANTIA       
+58 Dado inválido no campo SALDO BASE PARA CÁLCULO DO VALOR HONRADO                            
+59 A data de início da inadimplência não confere com as informações de saldo anteriores       
+60 Período de inadimplência menor que o mínimo exigido                                        
+61 Período de inadimplência maior que o máximo permitido                                      
+62 Dado inválido no campo CÓDIGO IBGE DO MUNICÍPIO                                            
+64 Dado inválido no campo TIPO DE PÚBLICO-ALVO                                                
+65 Dado inválido no campo FATURAMENTO BRUTO ANUAL                                             
+66 Dado inválido no campo DATA DA LIBERAÇÃO 
+67 Dado inválido no campo VALOR DA LIBERAÇÃO                                                  
+
+ 
+44 
+#Pública 
+68 Dado inválido no campo VALOR DA CCG                                                        
+69 Dado inválido no campo SALDO DE ENCARGOS EM NORMALIDADE                                    
+70 Dado inválido no campo SALDO DE ENCARGOS EM ATRASO                                         
+71 Mutuário já possui operação contratada no programa com este Agente Financeiro  
+72 A data do saldo não pode ser anterior à primeira liberação de crédito 
+88 Dado inválido no campo DATA DO CANCELAMENTO DA OPERAÇÃO                                    
+92 Valor garantido maior que o máximo permitido para a finalidade INVESTIMENTO                
+93 Valor garantido maior que o máximo permitido para a finalidade CAPITAL DE GIRO             
+94 Percentual de garantia menor que o mínimo exigido para a finalidade INVESTIMENTO           
+95 Percentual de garantia menor que o mínimo exigido para a finalidade CAPITAL DE GIRO        
+96 Percentual de garantia maior que o máximo permitido para a finalidade INVESTIMENTO         
+97 Percentual de garantia maior que o máximo permitido para a finalidade CAPITAL DE GIRO      
+100 Dado inválido no campo DATA DA ALTERAÇÃO DA OPERAÇÃO                                       
+103 O valor liberado somado com as liberações anteriores não pode superar o valor da operação  
+104 A CCG informada não confere com a CCG calculada pelo Administrador                         
+107 Dado inválido no campo DATA DA RECUPERAÇÃO A CANCELAR                                      
+108 Procedimento não permitido para operação na situação IMPUGNADA                             
+109 A data de liquidação não pode ser menor que a data do último evento informado  
+110 O Fundo Garantidor não permite este PÚBLICO-ALVO                                                      
+113 Dado inválido no campo DATA DA REATIVAÇÃO DA OPERAÇÃO                                      
+114 Dado inválido no campo DATA DA DEVOLUÇÃO DO VALOR HONRADO                                  
+116 A data da devolução não pode ser anterior à data da honra da garantia                      
+117 Procedimento não permitido para operação na situação FORMALIZADA                           
+119 Procedimento não permitido para operação na situação CANCELADA PELO AGENTE 
+120 O valor liberado não pode ser maior que o valor da operação                                
+121 Agente Financeiro não habilitado a operar com este Fundo Garantidor na data do evento      
+122 A data da liberação de crédito não pode ser maior que a data de vencimento da operação 
+123 A data da formalização não pode ser maior que a data de vencimento da operação             
+124 O valor da operação não pode ser menor que o seu saldo devedor                             
+125 Dado inválido no campo DATA DO CANCELAMENTO DA RECUPERAÇÃO                                 
+126 Dado inválido no campo VALOR DA RECUPERAÇÃO A CANCELAR                                     
+127 A data da alteração não pode ser futura                                                    
+128 Procedimento não permitido para operação com pendência                                     
+129 CPF/CNPJ inválido junto à Receita Federal do Brasil                                        
+130 Não deve ser cobrada CCG nesta liberação de crédito/ACP                                    
+131 Dado inválido no campo TIPO DE CRONOGRAMA DE AMORTIZAÇÃO                                   
+132 Dado inválido no campo CONDIÇÃO ESPECIAL DA OPERAÇÃO                                       
+133 Dado inválido no campo DATA PREVISTA DE VENCIMENTO DA OPERAÇÃO                             
+134 A data de vencimento não pode ser alterada em operação com cronograma do tipo independente 
+135 Não permitido cronograma INDEPENDENTE para a modalidade/finalidade de crédito da operação  
+136 A data da liberação de crédito não pode ser anterior à data de formalização da operação 
+137 A data da liberação do crédito não pode ser futura                                  
+138 A data da reativação não pode ser anterior à data de liquidação da operação                
+139 A data da reativação não pode ser posterior à data de vencimento da operação               
+140 Dado inválido no campo DATA DO DESPACHO EXTERNO                                            
+142 Modalidade de crédito incompatível com a condição especial                                 
+143 Procedimento não permitido para operação na situação PARCELADA APÓS A HONRA DA GARANTIA    
+144 Dado inválido no campo DATA DO PARCELAMENTO                                                
+145 Dado inválido no campo VALOR DO SALDO PARCELADO                                            
+
+ 
+45 
+#Pública 
+146 Dado inválido no campo DATA DE VENCIMENTO DO PARCELAMENTO                                  
+147 A data do parcelamento não pode ser anterior à data da honra da garantia                   
+148 A data do parcelamento não pode ser futura                                                 
+149 O saldo parcelado difere do saldo honrado a recuperar na data do parcelamento              
+150 A data de vencimento do parcelamento não pode ser anterior à data do parcelamento          
+151 Prazo de parcelamento maior que o máximo permitido                                         
+152 Dado inválido no campo FONTE DE RECURSOS                                                   
+153 Dado inválido no campo PROGRAMA DE CRÉDITO                                                 
+154 Prazo da operação maior que o máximo permitido                                             
+155 O código de público-alvo é  incompatível com a condição especial                           
+156 Data em dia não útil                                                                       
+157 O saldo não pode ser zero na enésima liberação em operação da modalidade CRÉDITO FIXO      
+158 A data do saldo deve ser o último dia do mês                                               
+159 A data do saldo não pode ser futura                                                        
+160 A data da solicitação de honra não pode ser futura                                         
+161 A data do cancelamento não pode ser futura                                                 
+162 A data da liquidação não pode ser futura                                                   
+163 A data da reativação não pode ser futura                                                   
+164 Tipo de condição especial não permitido nessa data de formalização                         
+165 Tipo de condição especial não permitido nessa data de despacho externo                     
+166 Saldo base incompatível com saldos anteriores da operação, conforme metodologia de cálculo                
+167 A data da alteração não pode ser anterior à data da formalização                           
+168 O saldo devedor somado com o valor liberado não pode ser maior que o valor da operação     
+169 A data desta liberação de crédito não pode ser anterior à última informada             
+170 A data da liberação de crédito não pode ser anterior à data do despacho externo        
+171 A data do cancelamento não pode ser futura                                                 
+172 Procedimento não permitido para mutuário com operação LIQUIDADA PÓS-HONRA COM ABATIMENTO   
+173 Procedimento não permitido para mutuário com operação CEDIDA PÓS-HONRA COM DESÁGIO         
+174 Dado inválido no campo VALOR DO ABATIMENTO                                                 
+175 Dado inválido no campo TIPO DE ABATIMENTO                                                  
+176 Procedimento não permitido para operação na situação LIQUIDADA PÓS-HONRA COM ABATIMENTO    
+177 Procedimento não permitido para operação na situação CEDIDA PÓS-HONRA COM DESÁGIO          
+178 Já existe operação formalizada com o identificador da operação substituta                  
+179 A data da recuperação deve ser dia útil                                                    
+180 A data da recuperação não pode ser anterior à data de solicitação da honra                 
+181 A data da recuperação não pode ser futura                                                  
+183 O valor do abatimento é incompatível com o tipo de abatimento                                
+184 O prazo entre a solicitação de honra e o abatimento é menor que o permitido 
+185 Não cumpriu o prazo mínimo desde a solicitação de honra para fazer cessão com deságio      
+187 A recuperação a cancelar não foi a última informada                                        
+188 O saldo base informado resulta em valor honrado igual a zero                               
+189 O código de público-alvo é incompatível com o tipo de pessoa                               
+190 Dados informados na remessa divergem dos informados na pré-validação                       
+192 Esta operação já foi pré-validada com reserva                                              
+193 Procedimento não permitido para mutuário com operação PARCELADA PÓS-HONRA                  
+194 A operação original não foi liquidada                                                      
+195 A data do cancelamento não pode ser anterior à data da recuperação a cancelar              
+196 Procedimento não permitido para operação que foi liquidada para novação de dívida          
+197 Código do tipo de formalização inválido                                                    
+
+ 
+46 
+#Pública 
+199 Não foi localizada a operação liquidada para a novação da dívida                           
+200 O valor recuperado junto com o abatimento está abaixo do mínimo exigido 
+202 A data do abatimento não pode ser anterior a uma recuperação ou abatimento já informado    
+203 A data do abatimento não pode ser futura                                                   
+204 A data do abatimento não pode ser anterior à data da honra da garantia                     
+205 O prazo entre o início da inadimplência e o abatimento é menor que o permitido 
+206 Prazo entre os abatimentos é menor que o permitido 
+207 Já foi processado evento anterior que utilizou este número de reserva                      
+208 A reserva expirou por decurso de prazo                                                     
+209 A reserva foi cancelada pelo Agente Financeiro                                             
+210 Número de reserva não localizado                                                           
+211 Dado inválido no campo NÚMERO DA RESERVA                                                   
+212 Abatimento acima do percentual máximo permitido 
+213 O valor do abatimento não corresponde ao saldo honrado a recuperar      
+214 O valor do abatimento não pode ser maior nem igual ao saldo honrado 
+215 Dado inválido no campo DATA DO ABATIMENTO                                                  
+216 O prazo entre a honra da garantia e o abatimento é menor que o permitido 
+217 Este tipo de evento não estava habilitado na data informada 
+218 Já foi processado evento de abatimento após a recuperação a cancelar                       
+219 Não é permitido aumentar o valor da operação de novação                                    
+220 É proibida mais de uma liberação de crédito em operação do tipo "novação de dívida"        
+221 Prazo da operação menor que o mínimo permitido                                             
+222 Operação formalizada fora do período permitido                                             
+223 O valor da operação não pode ser alterado                                                  
+224 A alteração da data de vencimento deve ser feita pelo evento 10                   
+225 O valor liberado não pode ser zero                                                         
+226 Empresa com mais de 1 ano de fundação deve informar faturamento maior que zero             
+227 Excedeu o valor máximo que pode ser financiado com base no faturamento do mutuário                                 
+228 Excedeu o valor máximo que  pode ser financiado pelo Agente com a garantia desse Fundo     
+229 Tipo de evento não habilitado para este Fundo Garantidor 
+230 Excedeu o valor máximo que pode ser financiado a empresa com menos de 1 ano 
+231 Excedeu o valor máximo que pode ser financiado a cada mutuário 
+232 Excedeu o valor máximo que pode ser honrado pelo Fundo 
+233 Faturamento bruto anual inválido junto à RFB 
+234 Operação não cadastrada no SCR do BACEN 
+235 O faturamento informado anteriormente ainda está pendente de validação pela RFB 
+236 O faturamento informado anteriormente foi validado pela RFB 
+237 Operação pendente de validação no SCR do BACEN 
+238 Faturamento inferior ao mínimo permitido 
+239 A nova data de vencimento não pode ser anterior à originalmente formalizada 
+240 O Fundo Garantidor não permite este PROGRAMA DE CRÉDITO 
+241 Alteração de vencimento não permitida para esta operação 
+242 O prazo adicional, em relação ao vencimento original, é maior que o permitido 
+243 Relatório de auditoria externa não foi entregue ou está sem aceite do Administrador 
+244 O código de público-alvo é incompatível com o faturamento 
+245 Não permitido para operação formalizada em ano anterior 
+246 A alteração do programa de crédito não é permitida nesta operação 
+247 Evento não permitido para operação em processo de portabilidade na CIP 
+248 Procedimento não permitido para operação que já recuperou integralmente o saldo honrado 
+
+ 
+47 
+#Pública 
+249 É obrigatório informar DATA INÍCIO INADIMPLÊNCIA quando há saldo de capital em atraso 
+250 Dado inválido no campo DATA INÍCIO DE INADIMPLÊNCIA 
+251 DATA DE INÍCIO DE INADIMPLÊNCIA menor que a informada anteriormente 
+252 DATA DE INÍCIO DE INADIMPLÊNCIA diferente da data informada no evento de saldo 
+253 Informou DATA DE INÍCIO DE INADIMPLÊNCIA, mas não há saldo de capital em atraso 
+254 TIPO DE MODALIDADE DE CRÉDITO não permitido   
+255 TIPO DE FINALIDADE DE CRÉDITO não permitido 
+256 Percentual de garantia menor que o mínimo exigido para a finalidade RENEGOCIAÇÃO 
+257 Percentual de garantia maior que o máximo permitido para a finalidade RENEGOCIAÇÃO 
+258 Alteração permitida somente para código identificador da operação 
+259 Dado inválido no campo VALOR DA SUBVENÇÃO                                       
+260 Este PROGRAMA DE CRÉDITO não permite subvenção                                        
+261 Valor ou percentual de subvenção não permitido 
+262 Mutuário já utilizou subvenção para este programa 
+263 O Agente atingiu seu limite máximo de subvenção neste PROGRAMA DE CRÉDITO               
+264 O Fundo atingiu o limite máximo de subvenção para este PÚBLICO-ALVO                                 
+265 Município não atendido por este programa de crédito.                                                 
+266 O saldo de capital não pode ser maior que o valor da operação descontado o valor da subvenção 
+267 Para data de formalização futura, informar o próximo dia útil 
+268 A DATA DO SALDO informada não corresponde ao mês esperado 
+269 TIPO DE ABATIMENTO não permitido para este fundo garantidor 
+270 A data da primeira informação de saldo deve corresponder ao mês da primeira liberação de crédito 
+271 O saldo comprometido do mutuário excedeu o limite em relação ao seu faturamento 
+272 O saldo comprometido do mutuário excedeu o valor máximo permitido 
+273 O valor total financiado a este mutuário excedeu o limite por agente 
+274 Dado inválido no campo CPF QUALIFICADOR 
+275 CPF QUALIFICADOR não cadastrado na Receita Federal 
+276 O CPF QUALIFICADOR não tem gênero cadastrado na Receita Federal 
+277 O percentual de operações qualificadas como "mulher" na carteira do agente está abaixo do mínimo 
+278 O CPF QUALIFICADOR é diferente do CPF DO MUTUÁRIO 
+279 O saldo comprometido do mutuário excedeu o limite por fundos coligados 
+280 O saldo comprometido do mutuário excedeu o limite por agente 
+281 CPF QUALIFICADOR não cadastrado ou desatualizado no CadÚnico do Governo Federal 
+282 Não foi encontrado evento de honra para essa operação 
+283 Obrigatório informar Índice de Perda Esperada 
+284 Agente financeiro não habilitado a operar com subvenção 
+285 Município não habilitado a operar com subvenção 
+286 O PROGRAMA DE CRÉDITO não permite este TIPO DE PESSOA 
+287 O PROGRAMA DE CRÉDITO não permite este TIPO DE PÚBLICO-ALVO 
+288 O PROGRAMA DE CRÉDITO atingiu o limite máximo de subvenção 
+289 O PROGRAMA DE CRÉDITO atingiu o limite máximo de valores garantidos 
+290 Este PÚBLICO-ALVO atingiu o limite máximo de valores garantidos 
+291 O Agente atingiu seu limite máximo de subvenção para este PÚBLICO-ALVO 
+292 O Fundo atingiu o limite máximo de subvenção neste PROGRAMA DE CRÉDITO 
+293 A base de dados da Dataprev está indisponível para validar a região de calamidade pública 
+294 O mutuário não consta no cadastro de habilitados à subvenção da Dataprev 
+296 O mutuário e o município estão fora da região atendida por este Fundo Garantidor 
+297 O mutuário já contratou outra operação neste Fundo Garantidor 
+298 VALOR DA OPERAÇÃO acima do máximo permitido 
+
+ 
+48 
+#Pública 
+300 Percentual de subvenção acima ou abaixo do permitido para este PROGRAMA DE CRÉDITO 
+302 Valor inválido no campo Índice de Perda Esperada 
+303 Informe valor válido em pelo menos um dos campos: NÍVEL DE RISCO ou ÍNDICE DE PERDA ESPERADA 
+304 Procedimento não permitido para operação na situação EXTINTA DE PLENO DIREITO 
+305 Procedimento não permitido para mutuário com operação EXTINTA DE PLENO DIREITO 
+306 Não cumpriu o prazo mínimo desde o vencimento da última parcela da operação 
+307 Ultrapassou o prazo máximo permitido para solicitação do abatimento 
+308 Saldo de encargos com valor desproporcional 
+312 Informação em duplicidade 
+313 Existe informação de saldo zerando o capital em atraso após a DATA DE INÍCIO DE INADIMPLÊNCIA 
+314 Não existe informação de saldo da operação no mês anterior à solicitação de honra 
+315 Procedimento não permitido para mutuário com operação honrada que recuperou menos de 30% 
+317 O Agente ultrapassou seu limite de contratação no programa de crédito 
+319 Procedimento não permitido para operação na situação SUSPENSA JUDICIALMENTE 
+320 CPF QUALIFICADOR não pode ser informado para operação formalizada nessa data 
+321 Esta operação não permite alterar o CÓDIGO IBGE DO MUNICÍPIO 
+327 CNPJ/CPF não é beneficiário do programa, conforme regras vigentes.                                                 
+999 Registro rejeitado por outro motivo (consulte o Administrador) 
+ 
+14.3 TIPO DE PESSOA 
+Código Tipo de pessoa 
+1 Pessoa física 
+ 
+14.4 PÚBLICO-ALVO 
+Código Público-alvo 
+07 Pessoa Física 
+ 
+14.5 MODALIDADE DE CRÉDITO 
+Código Modalidade de crédito 
+1 Crédito fixo 
+ 
+14.6 FINALIDADE DO CRÉDITO 
+Código Finalidade do crédito 
+1 Investimento 
+2 Capital de giro 
+3 Renegociação de dívida 
+ 
+ 
+
+ 
+49 
+#Pública 
+14.7 FONTE DE RECURSOS 
+Código Fonte de Recursos 
+011 Recurso próprio 
+ 
+14.8 PROGRAMA DE CRÉDITO 
+Código Programa de crédito 
+50 Novo Desenrola Brasil 
+ 
+14.9 TIPO DE CRONOGRAMA DE AMORTIZAÇÃO 
+Código Tipo de cronograma 
+1 Cronogramas unificados 
+2 Cronogramas independentes 
+ 
+14.10 CONDIÇÃO ESPECIAL DA OPERAÇÃO 
+Código Condição especial 
+01 Sem condição especial 
+ 
+14.11 TIPO DE FORMALIZAÇÃO 
+Código Tipo de Formalização 
+1 Ordinária 
+ 
+14.12 TIPO DE PENDÊNCIA DA OPERAÇÃO 
+Código Tipo de pendência 
+01 Saldo devedor não informado pelo Agente 
+02 Operação de crédito fixo com saldo devedor zero 
+03 Operação vencida e com saldo em normalidade 
+04 Faturamento bruto anual inválido junto à RFB 
+05 Operação não cadastrada no SCR do BACEN 
+06 Após alterar FBA, a operação excedeu o valor máximo financiável mutuário 
+ 
+14.13 MOTIVO DE ENCERRAMENTO DA OPERAÇÃO PELO ADMINISTRADOR  
+Código Motivo de encerramento 
+01 Saldo devedor não informado pelo Agente 
+02 Operação de crédito fixo com saldo devedor zero 
+03 Operação vencida e com saldo em normalidade ou sem liberação de crédito 
+04 Faturamento bruto anual inválido junto à RFB 
+05 Operação não cadastrada no SCR do BACEN 
+06 Após alterar FBA, operação excede valor máximo financiável por mutuário 
+ 
+
+ 
+50 
+#Pública 
+14.14 SITUAÇÃO DA OPERAÇÃO 
+Código Situação da operação 
+01 Formalizada 
+02 Normalidade 
+03 Atrasada 
+04 Honrada 
+05 Liquidada pós-honra sem abatimento 
+06 Liquidada sem honra 
+07 Cancelada pelo Agente com devolução de CCG 
+08 Cancelada pelo Agente sem devolução de CCG 
+09 Encerrada pelo Administrador 
+10 Impugnada 
+11 Parcelada pós-honra 
+12 Liquidada pós-honra com abatimento 
+13 Cedida pós-honra com deságio 
+14 Extinta de pleno direito 
+ 
+14.15 MOTIVO DE IMPUGNAÇÃO DA OPERAÇÃO 
+Código Motivo de impugnação 
+01 Operação contratada em desacordo com as normas      
+02 Honra de garantia solicitada em desacordo com as normas    
+03 Operação impugnada por outro motivo (consulte o Administrador do Fundo) 
+04 Faturamento bruto anual inválido junto à RFB 
+05 Operação não cadastrada no SCR do BACEN 
+06 Após alterar FBA, a operação excedeu o valor máximo financiável mutuário 
+ 
+14.16 TIPO DE MOVIMENTAÇÃO FINANCEIRA 
+Código Tipo de movimentação Natureza 
+01 Recebimento de CCG 1 
+02 Devolução de CCG 2 
+03 Honra da garantia 2 
+04 Devolução de valor honrado 1 
+05 Recuperação de valor honrado 1 
+06 Devolução de valor recuperado 2 
+07 Abatimento no saldo honrado 3 
+ 
+14.17 NATUREZA DA MOVIMENTAÇÃO FINANCEIRA 
+Código Natureza da movimentação 
+1 A favor do FGO 
+2 A favor do Agente Financeiro 
+3 Sem movimentação 
+ 
+ 
+ 
+ 
+  
+
+ 
+51 
+#Pública 
+15 DIPOSIÇÕES GERAIS 
+15.1 DISPOSIÇÕES GERAIS 
+Quaisquer alterações, introduzindo, retirando ou modificando o presente Manual, serão comunicadas formalmente 
+aos Agentes. 
+Fica eleito o foro da Circunscrição Judiciária de Brasília (DF) como o competente para dirimir quaisquer questões 
+relativas ao presente Manual, ressalvados os casos previstos em lei. 
+Este Manual de Procedimentos Operacionais está divulgado no endereço eletrônico https://www.bb.com.br/fgo. 
+ 
+Fim deste documento 
+ 
+ 

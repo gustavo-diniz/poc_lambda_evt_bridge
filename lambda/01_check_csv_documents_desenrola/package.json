@@ -1,0 +1,12 @@
+{
+  "name": "lambda1-csv-reader-desenrola",
+  "version": "1.0.0",
+  "description": "Lambda 1 - Leitura do CSV_A no S3 e publicação no SQS_1",
+  "main": "src/index.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.0.0",
+    "@aws-sdk/client-sqs": "^3.0.0",
+    "csv-parse": "^5.5.0",
+    "dotenv": "^17.4.2"
+  }
+}
