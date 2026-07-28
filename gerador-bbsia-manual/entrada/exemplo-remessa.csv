@@ -1,0 +1,11 @@
+tipoRegistro;idAcordo;ibgeCliente;cpf;dataAcordo;dataVencimentoOperacao;valorOperacaoCredito;valorRenda;numeroPreValidacao;valorSubvencao;dataLiberacaoCredito;valorLiberacaoCredito;dataApuracaoSaldos;valorSaldoCapitalNormalidade;valorSaldoCapitalAtraso;valorSaldoEncargosNormalidade;valorSaldoEncargosAtraso;dataInicioInadimplenciaCapital;indicePerdaEsperada;novoIdAcordo;dataAlteracaoOperacao;novoIbgeCliente;novoValorRenda;dataCancelamentoOperacao;dataLiquidacaoOperacao
+03;1922951;170070;00753760169;21/06/2026;21/07/2026;2594,84;2700;191;0;;;;;;;;;;;;;;;
+03;1922952;355030;12345678909;22/06/2026;22/07/2026;1800,00;3500;192;0;;;;;;;;;;;;;;;
+04;1922951;;;;;;;;;21/06/2026;2594,84;;;;;;;;;;;;
+04;1922952;;;;;;;;;22/06/2026;1800,00;;;;;;;;;;;;
+05;1922951;;;;;;;;;;;30/06/2026;2594,84;0;35,10;0;;0,000051;;;;;;
+05;1922952;;;;;;;;;;;30/06/2026;1200,00;600,00;40,00;15,25;15/06/2026;0,012500;;;;;;
+10;1922951;;;;21/08/2026;;;;;;;;;;;;;;;25/06/2026;170070;3100;;
+10;1922952;;;;22/07/2026;;;;;;;;;;;;;;1922952-A;26/06/2026;355030;3500;;
+11;1922953;;;;;;;;;;;;;;;;;;;;;;27/06/2026;
+12;1922954;;;;;;;;;;;;;;;;;;;;;;;28/06/2026

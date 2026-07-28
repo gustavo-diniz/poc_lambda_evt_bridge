@@ -1,0 +1,23 @@
+{
+  "nomeArquivoRemessa": "GFGF0010",
+  "versaoLeiaute": "20170331",
+  "codigoAgenteFinanceiro": 59,
+  "codigoFundoGarantidor": 10,
+  "numeroSequencialRemessa": 1,
+
+  "numeroAgenciaContratanteOperacao": 1,
+  "codigoTipoPessoa": 1,
+  "codigoTipoPublicoAlvo": 7,
+  "percentualGarantiaOperacaoCredito": 100,
+  "codigoTipoModalidadeCredito": 1,
+  "codigoTipoFinalidadeCredito": 3,
+  "codigoTipoFonteRecurso": 11,
+  "codigoTipoProgramaCredito": 50,
+  "codigoTipoCronogramaAmortizacao": 1,
+  "codigoTipoCondicaoEspecial": 1,
+  "dataDespachoExternoOperacao": 0,
+  "codigoTipoFormalizacao": 1,
+
+  "diretorioSaida": "./saida",
+  "nomeArquivoFisico": "GFGF0010.txt"
+}
