@@ -1,0 +1,4 @@
+tipoRegistro;idAcordo;ibgeCliente;cpf;dataAcordo;dataVencimentoOperacao;valorOperacaoCredito;valorRenda;numeroPreValidacao;valorSubvencao;dataLiberacaoCredito;valorLiberacaoCredito;dataApuracaoSaldos;valorSaldoCapitalNormalidade;valorSaldoCapitalAtraso;valorSaldoEncargosNormalidade;valorSaldoEncargosAtraso;dataInicioInadimplenciaCapital;indicePerdaEsperada;novoIdAcordo;dataAlteracaoOperacao;novoIbgeCliente;novoValorRenda;dataCancelamentoOperacao;dataLiquidacaoOperacao
+5;1954250;;;;;;;;;;;31/08/2026;0;0;0;0;0;0;;;;;;
+5;1963954;;;;;;;;;;;31/08/2026;0;0;0;0;0;928799;;;;;;
+5;1955023;;;;;;;;;;;31/08/2026;0;0;0;0;0;0;;;;;;

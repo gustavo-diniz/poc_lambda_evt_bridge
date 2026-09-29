@@ -1,0 +1,27 @@
+{
+  "name": "gerador-bbsia-manual",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Gerador manual do arquivo de Remessa GFG0010 (FGO / BB SIA) a partir de uma planilha .xlsx ou CSV, sem base de dados.",
+  "scripts": {
+    "gerar": "tsx src/index.ts",
+    "gerar:exemplo": "tsx src/index.ts --entrada entrada/exemplo-remessa.csv --config config/parametros.json",
+    "gerar:exemplo-xlsx": "tsx src/index.ts --entrada entrada/modelo-remessa.xlsx --config config/parametros.json",
+    "modelo:xlsx": "tsx src/modelo-xlsx.ts",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "retorno:xlsx": "tsx src/retornos/cli-retorno.ts",
+    "retorno:exemplo": "tsx src/retornos/cli-retorno.ts --pasta entrada/retornos-exemplo",
+    "450r:gerar-fake": "tsx src/retorno450r/cli-450r.ts gerar-fake",
+    "450r:ler": "tsx src/retorno450r/cli-450r.ts ler --arquivo saida/GFGF450R.txt"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
